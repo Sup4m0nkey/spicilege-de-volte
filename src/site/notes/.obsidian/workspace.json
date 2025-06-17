@@ -13,12 +13,22 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Agonologie/Épreuves/Énigmes.md",
+                "file": "101. Spicilège & Calembredaines.md",
                 "mode": "source",
-                "source": false
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
               "icon": "lucide-file",
-              "title": "Énigmes"
+              "title": "101. Spicilège & Calembredaines"
             }
           }
         ]
@@ -191,6 +201,16 @@
             "state": {
               "type": "DICE_ROLLER_VIEW",
               "state": {},
+              "icon": "lucide-file",
+              "title": "Le module complémentaire n'est plus actif."
+            }
+          },
+          {
+            "id": "8908b65c3b489b2d",
+            "type": "leaf",
+            "state": {
+              "type": "DICE_ROLLER_VIEW",
+              "state": {},
               "icon": "dices",
               "title": "Dice Tray"
             }
@@ -211,11 +231,20 @@
       "daily-notes:Ouvrir la note quotidienne": false,
       "templates:Insérer le modèle": false,
       "command-palette:Ouvrir la palette de commandes": false,
-      "digitalgarden:Digital Garden Publication Center": false
+      "digitalgarden:Digital Garden Publication Center": false,
+      "audio-recorder:Démarrer / arrêter l'enregistrement": false,
+      "markdown-importer:Ouvrir l'importateur Markdown": false
     }
   },
   "active": "4bcb8c6f56a4d3ac",
   "lastOpenFiles": [
+    "Oeuvres Majeures.md",
+    "101. Spicilège & Calembredaines.md",
+    "Notes.md",
+    "Mots d'esprit.md",
+    "JdR.md",
+    "Inventions.md",
+    "Agonologie/Épreuves/Énigmes.md",
     "Agonologie/Lieux/ARG - BPM.png",
     "Xternal/Noces.png",
     "Agonologie/IDs concepts.md",
@@ -232,7 +261,6 @@
     "Agonologie/Épreuves/Jeux et Défis.md",
     "Xternal/JdR/Now Crumple This Paper Feel Free To Uncrumple This Paper At Any Time.pdf",
     "Agonologie/Épreuves/Grands Jeux.md",
-    "Agonologie/Épreuves/Énigmes.md",
     "Agonologie/Épreuves/2025.06.16 - Akanniversaire.md",
     "Xternal/JdR/Occuprofessions Panchroniques.pdf",
     "Xternal/JdR/Table Analogique 2020_08_26.pdf",
@@ -248,11 +276,6 @@
     "Agonologie/Lieux/Rue Baudelaire.md",
     "Agonologie/Lieux/Place St Pierre.md",
     "Agonologie/Lieux/Place de la Barreyrette.md",
-    "Agonologie/Lieux/Place d'Aine.md",
-    "Agonologie/Lieux/Pavillon du Verdurier.md",
-    "Agonologie/Lieux/Opéra - Place Stalingrad.md",
-    "Agonologie/Lieux/Espace Noriac.md",
-    "Agonologie/Lieux/Chapelle St Aurélien.md",
     "Agonologie/Épreuves",
     "Xternal/_ Alt Caractères Spéciaux Windows.gif",
     "Xternal/Occultus/Fêtes Païennes (Sabbats).jpg",
@@ -265,7 +288,6 @@
     "Xternal/Ars Esoterica/Symboles et Tableaux/Runes 2.jpg",
     "Xternal/Ars Esoterica/Symboles et Tableaux/Stars and Qabalah.jpg",
     "Xternal/Ars Esoterica/Symboles et Tableaux/Runes 1.jpg",
-    "Xternal/Ars Esoterica/Symboles et Tableaux/Rituel de libération.jpg",
     "Archives_Impersonnelles/_Archives/Sprawlevane/Microscope/1. With Janjan.canvas",
     "Archives_Impersonnelles/_Archives/Sprawlevane/Exemple.canvas",
     "Archives_Impersonnelles/Rhomuliannisme/PJs/_ Relations.canvas",

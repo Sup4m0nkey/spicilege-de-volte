@@ -1,5 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/oeuvres-majeures/","created":"2024-04-08T12:06:16.603+02:00","updated":"2024-05-05T19:21:24.670+02:00"}
+dg-publish: true
+permalink: /oeuvres-majeures/
+created: 2024-04-08T12:06:16.603+02:00
+updated: 2024-05-05T19:21:24.670+02:00
 ---
 
 #Arts #Penser #Projets #EnCours 

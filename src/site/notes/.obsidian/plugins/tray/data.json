@@ -1,6 +1,6 @@
 {
   "launchOnStartup": false,
-  "hideOnLaunch": true,
+  "hideOnLaunch": false,
   "runInBackground": false,
   "hideTaskbarIcon": true,
   "createTrayIcon": true,
