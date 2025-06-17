@@ -1,6 +1,6 @@
 {
   "githubRepo": "spicilege-de-volte",
-  "githubToken": "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",
+  "githubToken": "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",
   "githubUserName": "Sup4m0nkey",
   "gardenBaseUrl": "https://spicilege-et-calembredaines.netlify.app",
   "prHistory": [],
@@ -11,7 +11,7 @@
   "noteSettingsIsInitialized": true,
   "siteName": "Spicilège et Calembredaines",
   "mainLanguage": "Fr",
-  "slugifyEnabled": false,
+  "slugifyEnabled": true,
   "noteIconKey": "dg-note-icon",
   "defaultNoteIcon": "",
   "showNoteIconOnTitle": false,
