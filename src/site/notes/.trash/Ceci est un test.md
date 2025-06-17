@@ -1,2 +1,0 @@
-### Upload
-Obsidian ft. Github !
