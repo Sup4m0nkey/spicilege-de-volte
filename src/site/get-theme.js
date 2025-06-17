@@ -6,10 +6,7 @@ const {globSync} = require("glob");
 
 const themeCommentRegex = /\/\*[\s\S]*?\*\//g;
 
-
-
 async function getTheme() {
-  npm install @11ty/eleventy -g
   let themeUrl = process.env.THEME;
   if (themeUrl) {
     //https://forum.obsidian.md/t/1-0-theme-migration-guide/42537
