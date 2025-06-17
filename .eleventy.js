@@ -1,4 +1,3 @@
-const UpgradeHelper = require("@11ty/eleventy-upgrade-help");
 const slugify = require("@sindresorhus/slugify");
 const markdownIt = require("markdown-it");
 const fs = require("fs");
@@ -540,12 +539,6 @@ module.exports = function (eleventyConfig) {
       singleTags: ["link"],
     },
   });
-
-  userEleventySetup(eleventyConfig);
-module.exports = function (eleventyConfig) {
-	// If you have other `addPlugin` calls, it’s important that UpgradeHelper is added last.
-	eleventyConfig.addPlugin(UpgradeHelper);
-};
 
   return {
     dir: {
