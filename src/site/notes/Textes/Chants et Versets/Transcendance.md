@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/textes/chants-et-versets/transcendance/","created":"2024-05-25T20:56:29.753+02:00","updated":"2024-05-25T08:31:23.129+02:00"}
+{"dg-publish":true,"permalink":"/textes/chants-et-versets/transcendance/","noteIcon":"","created":"2025-06-17T02:49:05.090+02:00","updated":"2025-06-17T02:49:05.090+02:00"}
 ---
+
 
 
 Pour la dernière fois il ferma ses paupières

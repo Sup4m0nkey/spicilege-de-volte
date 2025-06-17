@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/textes/prosopopees/camembert-alu-les-mites-de-zizi-feu/","created":"2024-05-25T20:56:29.794+02:00","updated":"2024-05-25T07:39:25.083+02:00"}
+{"dg-publish":true,"permalink":"/textes/prosopopees/camembert-alu-les-mites-de-zizi-feu/","noteIcon":"","created":"2025-06-17T02:49:05.268+02:00","updated":"2025-06-17T02:49:05.268+02:00"}
 ---
+
 
 
 *ou*

@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/oeuvres-majeures/","created":"2024-04-08T12:06:16.603+02:00","updated":"2024-05-05T19:21:24.670+02:00"}
+{"dg-publish":true,"permalink":"/oeuvres-majeures/","noteIcon":"","created":"2025-06-17T02:49:04.952+02:00","updated":"2025-06-17T03:13:06.482+02:00"}
 ---
+
 
 #Arts #Penser #Projets #EnCours 
 #### Pentalogie Psychonaute

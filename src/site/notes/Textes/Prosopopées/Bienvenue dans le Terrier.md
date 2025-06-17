@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/textes/prosopopees/bienvenue-dans-le-terrier/","created":"2024-05-25T20:56:29.793+02:00","updated":"2024-05-25T14:43:52.604+02:00"}
+{"dg-publish":true,"permalink":"/textes/prosopopees/bienvenue-dans-le-terrier/","noteIcon":"","created":"2025-06-17T02:49:05.262+02:00","updated":"2025-06-17T02:49:05.262+02:00"}
 ---
+
 
 
 

@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/metasophia/valeurs/","created":"2024-04-08T12:06:16.334+02:00","updated":"2024-04-08T16:53:51.447+02:00"}
+{"dg-publish":true,"permalink":"/metasophia/valeurs/","noteIcon":"","created":"2025-06-17T02:49:04.932+02:00","updated":"2025-06-17T02:49:53.774+02:00"}
 ---
+
 
  #Valeurs
 ### Qualités :
