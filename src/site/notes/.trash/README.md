@@ -1,2 +1,0 @@
-# Git-Moire
- Grimoire Online
