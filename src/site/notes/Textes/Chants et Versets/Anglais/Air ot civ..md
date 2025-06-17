@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/textes/chants-et-versets/anglais/air-ot-civ/","noteIcon":"","created":"2025-06-17T02:49:04.971+02:00","updated":"2025-06-17T02:49:04.971+02:00"}
+{"dg-publish":true,"permalink":"/textes/chants-et-versets/anglais/air-ot-civ/","created":"2024-05-25T20:56:29.757+02:00","updated":"2024-05-25T14:43:06.744+02:00"}
 ---
-
 
 
 

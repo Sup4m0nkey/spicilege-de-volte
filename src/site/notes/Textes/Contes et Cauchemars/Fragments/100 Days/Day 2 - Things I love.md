@@ -1,0 +1,8 @@
+
+J'aime à penser que j'aime aimer.
+Le matin, avec #Jeanjean, quand je prends le temps de savourer un café ou deux, ou un cidre français, habituellement *La Mordue*, et qu'il me raconte son Week-end, je pense à #Carrie, ma femme ; je repense à la #Philosophie, à Tim Clare et son [[Day 1 - Names|Death of a thousand cuts]] ; à l'enfance et puis à l'amitié, à tous mes foutus couplets sans héritier...
+Les barbecues entre amis, et surtout entre médiévistes, quand on porte nos costumes jusqu'à oublier qu'ils sont inconfortables ; les copains qui sortent une vanne **juste avant** qu'on l'ait oubliée, ou, encore mieux, quand j'ai l'orgueil gonflé d'avoir sorti **la** vanne, à propos, alors qu'ils l'avaient presque oubliée.
+Les liaisons de pensées avec mon #Pedromancien, mon #Bayush et ma #Ritonite, quand nos nuis s'égrainent de ricanements, d'engueulades dialectiques et de gloussements incontrôlables — de vrais coqs, à chanter les pieds dans la merde.
+Les portes de la perception qui s'ouvrent, un toncar de La Sur-Défonce ou de Laquais Ta Mine (Quête à Mine ?)
+Si tout n'est que Jeu de Rôle, j'aime choisir le mien en fonction des circonstances, mais toujours le tisser avec un fil dont je me sens pelote : que les broderies que j'y mêle ne puissent être attribuées à un autre que moi, que mon esprit.
+J'aime le mérite, l'excellence, le beau et la liberté. J'aime détester le confort, et le chercher quand même...

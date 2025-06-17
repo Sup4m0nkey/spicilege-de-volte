@@ -1,0 +1,2 @@
+
+L'Octosapiens découvre que le Yaourt est une forme d'énergie quasi-infinie. En extrayant les ferments lactiques d'un Esclave Yaourt, faisant ainsi souffrir l'ensemble des membres de la Ruche et le rendant inerte, on extrait une énergie surnaturelle permettant de donner des pouvoirs défiant la physique newtonienne.

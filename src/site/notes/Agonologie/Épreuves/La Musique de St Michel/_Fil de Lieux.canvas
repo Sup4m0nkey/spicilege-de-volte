@@ -1,0 +1,29 @@
+{
+	"nodes":[
+		{"type":"file","file":"ARG/Lieux/Rue Baudelaire.md","id":"b118d44bc5ece623","x":120,"y":-270,"width":400,"height":200},
+		{"type":"file","file":"ARG/Lieux/Espace Noriac.md","id":"df69049f0c809c88","x":560,"y":-270,"width":400,"height":200},
+		{"type":"file","file":"ARG/Lieux/Église Jeanne d'Arc.md","id":"c90bd98bd7c5fcf7","x":-390,"y":-220,"width":380,"height":100},
+		{"type":"text","text":"\"Rends-toi au Lieu Saint, Rue d'Isle, tu y trouveras le nom de *Debussy*.\"","id":"f29ab1ee2a83c1f0","x":-325,"y":-440,"width":250,"height":60},
+		{"type":"text","text":"mv4i1pMzooc","id":"14ae2c8b2fa39bd5","x":-278,"y":-70,"width":156,"height":50},
+		{"type":"link","url":"https://www.youtube.com/watch?v=mv4i1pMzooc","id":"58bb371cf4aea7cf","x":-415,"y":25,"width":430,"height":301},
+		{"type":"text","text":"Place Stalingrad\nNé à Tsaritsyn : Vladimir Sidorov - [Siberian Train](https://www.youtube.com/watch?v=AjV7XRh57AI) ► Shazam","id":"62aef347a4e94332","x":270,"y":130,"width":250,"height":91},
+		{"type":"text","text":"Melpoméné","id":"5fb36483a37e77ee","x":-325,"y":360,"width":250,"height":60},
+		{"type":"file","file":"ARG/Lieux/Opéra - Place Stalingrad.md","id":"d322d78a0a0f8bd2","x":960,"y":54,"width":400,"height":244},
+		{"type":"text","text":"01010010 01100101 01101101 01100101 01101101 01100010 01100101 01110010 00100000 11001110 10011100 11001110 10110101 11001110 10111011 11001111 10000000 11001110 10111111 11001110 10111100 11001110 10101101 11001110 10111101 11001110 10110111","id":"fa997ec6bc9a574f","x":1041,"y":-240,"width":439,"height":140},
+		{"type":"text","text":"Remember Melpomène","id":"073c59d77d175ef1","x":1136,"y":-380,"width":250,"height":60}
+	],
+	"edges":[
+		{"id":"27fa9aede1e0710b","fromNode":"c90bd98bd7c5fcf7","fromSide":"right","toNode":"b118d44bc5ece623","toSide":"left","label":"Cinq Poèmes"},
+		{"id":"337631554f4ad096","fromNode":"b118d44bc5ece623","fromSide":"right","toNode":"df69049f0c809c88","toSide":"left"},
+		{"id":"2d252a13ac0e66da","fromNode":"62aef347a4e94332","fromSide":"right","toNode":"d322d78a0a0f8bd2","toSide":"left","fromEnd":"arrow","label":"Louis Blanc\nChâteau Landon\nGare de l'Est (Verdun)\nPoissonnière\nCadet\nLe Peletier\nChaussée d'Antin (La Fayette)"},
+		{"id":"0dae07a32366b742","fromNode":"f29ab1ee2a83c1f0","fromSide":"bottom","toNode":"c90bd98bd7c5fcf7","toSide":"top"},
+		{"id":"67c8ed9c3d4794e8","fromNode":"f29ab1ee2a83c1f0","fromSide":"right","toNode":"b118d44bc5ece623","toSide":"top"},
+		{"id":"7ca2f75136ba95ce","fromNode":"c90bd98bd7c5fcf7","fromSide":"bottom","toNode":"14ae2c8b2fa39bd5","toSide":"top"},
+		{"id":"cdbacb5b9a1ce689","fromNode":"14ae2c8b2fa39bd5","fromSide":"bottom","toNode":"58bb371cf4aea7cf","toSide":"top"},
+		{"id":"946a26df31316e27","fromNode":"58bb371cf4aea7cf","fromSide":"bottom","toNode":"5fb36483a37e77ee","toSide":"top"},
+		{"id":"d837a895ed2395fc","fromNode":"58bb371cf4aea7cf","fromSide":"right","toNode":"62aef347a4e94332","toSide":"left"},
+		{"id":"edad1dea5223dd1f","fromNode":"58bb371cf4aea7cf","fromSide":"right","toNode":"b118d44bc5ece623","toSide":"bottom"},
+		{"id":"171ab1b4d16fbac7","fromNode":"df69049f0c809c88","fromSide":"right","toNode":"fa997ec6bc9a574f","toSide":"left"},
+		{"id":"30acde8ff0be768f","fromNode":"fa997ec6bc9a574f","fromSide":"top","toNode":"073c59d77d175ef1","toSide":"bottom"}
+	]
+}

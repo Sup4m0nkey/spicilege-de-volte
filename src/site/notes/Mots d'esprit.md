@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/mots-d-esprit/","noteIcon":"","created":"2025-06-17T02:49:04.942+02:00","updated":"2025-06-17T03:12:57.041+02:00"}
+{"dg-publish":true,"permalink":"/mots-d-esprit/","created":"2024-04-08T12:06:16.598+02:00","updated":"2024-05-18T19:28:23.750+02:00"}
 ---
-
 
 La baignoire / La baie noire / L'abbé noir
 Like dog chasing my tail / my tale is a good story
