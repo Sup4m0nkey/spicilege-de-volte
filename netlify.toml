@@ -1,6 +1,6 @@
 [build]
   publish = "dist"
-  command = "npm install @11ty/eleventy && npm install && npm run build"
+  command = "npm install && npm run build"
 
 [[redirects]]
   from = "/api/*"
