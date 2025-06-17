@@ -608,7 +608,7 @@ Ce qui se reproduit par soi-même
 
 [[Holisme\|Holisme]]
 
-#EnCours #Penser Travailler sur [[Agonalogie/Épreuves/Jeux et Défis\|Jeux et Défis]] ► #Arts et [[Agonalogie/Sapience/Écoles de Magie\|Écoles de Magie]]
+#EnCours #Penser Travailler sur [[Agonalogie/Jeux et Défis\|Jeux et Défis]] ► #Arts et [[Agonalogie/Sapience/Écoles de Magie\|Écoles de Magie]]
 
 ### 2023.05.19 - Ménage & Sprawl
 
