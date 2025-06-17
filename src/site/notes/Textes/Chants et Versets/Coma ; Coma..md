@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/textes/chants-et-versets/coma-coma/","created":"2024-05-26T05:08:25.327+02:00","updated":"2024-05-26T05:11:12.797+02:00"}
+{"dg-publish":true,"permalink":"/textes/chants-et-versets/coma-coma/","created":"2025-06-17T19:33:00.787+02:00","updated":"2025-06-17T19:33:00.787+02:00"}
 ---
+
 
 
 Le Sommeil murmure, mielleux

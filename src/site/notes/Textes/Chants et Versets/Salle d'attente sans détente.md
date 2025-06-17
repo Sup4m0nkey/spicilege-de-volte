@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/textes/chants-et-versets/salle-d-attente-sans-detente/","created":"2024-05-25T20:56:29.752+02:00","updated":"2024-05-25T07:39:11.183+02:00"}
+{"dg-publish":true,"permalink":"/textes/chants-et-versets/salle-d-attente-sans-detente/","created":"2025-06-17T19:33:00.791+02:00","updated":"2025-06-17T19:33:00.791+02:00"}
 ---
+
 
 
 Qu'elle est hideuse cette peinture !

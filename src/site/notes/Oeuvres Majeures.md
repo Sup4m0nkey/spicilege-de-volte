@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/oeuvres-majeures/","created":"2024-04-08T12:06:16.603+02:00","updated":"2024-05-05T19:21:24.670+02:00"}
+{"dg-publish":true,"permalink":"/oeuvres-majeures/","created":"2025-06-17T19:33:00.784+02:00","updated":"2025-06-17T19:33:00.784+02:00"}
 ---
+
 
 #Arts #Penser #Projets #EnCours 
 #### Pentalogie Psychonaute
@@ -15,6 +16,7 @@
 - Donnie Darko
 - Midsommar
 - Jacob's Ladder
+- La Planète Sauvage
 
 #### Films Préférés
 #Film
@@ -60,6 +62,7 @@ Matrix
 - Eternal Sunshine of the Spotless Mind
 Cut
 A Scanner Darkly
+Numero 9
 
 #### Séries
 #Série
@@ -86,6 +89,7 @@ Michel Fugain - Une belle histoire
 #### Théâtre
 
 - The Man from Earth
+- Que ma Joie Demeure #Brozer 
 
 #### Conseillés
 
@@ -99,7 +103,6 @@ Michel Fugain - Une belle histoire
 - #Janjan Jean Philippe Smidt (Luccini, Uchronie)
 - #Janjan Yesterday (Uchronie)
 - A Ghost Story
-- La Planète Sauvage #Maëlstrom #Théocodore 
 
 ##### Séries
 
