@@ -6,6 +6,8 @@ const {globSync} = require("glob");
 
 const themeCommentRegex = /\/\*[\s\S]*?\*\//g;
 
+npm install @11ty/eleventy -g
+
 async function getTheme() {
   let themeUrl = process.env.THEME;
   if (themeUrl) {
