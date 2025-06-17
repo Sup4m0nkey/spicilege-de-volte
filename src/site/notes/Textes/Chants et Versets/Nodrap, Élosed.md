@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/textes/chants-et-versets/nodrap-elosed/","created":"2024-12-16T13:46:39.136+01:00","updated":"2024-05-25T08:30:30.356+02:00"}
+{"dg-publish":true,"permalink":"/textes/chants-et-versets/nodrap-elosed/","noteIcon":"","created":"2025-06-17T02:49:05.062+02:00","updated":"2025-06-17T02:49:05.062+02:00"}
 ---
+
 
 
 Tu avais exprimé tes désirs et tes peurs ;

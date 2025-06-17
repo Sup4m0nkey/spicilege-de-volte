@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/textes/contes-et-cauchemars/fragments/la-vie-d-un-troubadour/","created":"2024-12-16T13:46:39.316+01:00","updated":"2024-05-25T08:29:48.746+02:00"}
+{"dg-publish":true,"permalink":"/textes/contes-et-cauchemars/fragments/la-vie-d-un-troubadour/","noteIcon":"","created":"2025-06-17T02:49:05.177+02:00","updated":"2025-06-17T02:49:05.177+02:00"}
 ---
+
 
 
 ### Chapitre 1 : Les liens du sang

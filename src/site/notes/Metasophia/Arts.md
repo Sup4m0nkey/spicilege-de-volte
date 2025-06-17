@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/metasophia/arts/","created":"2024-12-05T22:43:45.169+01:00","updated":"2024-05-26T05:40:17.560+02:00"}
+{"dg-publish":true,"permalink":"/metasophia/arts/","noteIcon":"","created":"2025-06-17T02:49:04.922+02:00","updated":"2025-06-17T02:49:04.922+02:00"}
 ---
+
 
 
 **Art :**

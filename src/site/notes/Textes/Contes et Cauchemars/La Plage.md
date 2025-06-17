@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/textes/contes-et-cauchemars/la-plage/","created":"2024-12-16T13:46:39.516+01:00","updated":"2024-05-25T14:44:20.219+02:00"}
+{"dg-publish":true,"permalink":"/textes/contes-et-cauchemars/la-plage/","noteIcon":"","created":"2025-06-17T02:49:05.221+02:00","updated":"2025-06-17T02:49:05.221+02:00"}
 ---
+
 
 
 Brainless Jester, [[Songes, Rêves, Fantômes Nébuleux\|Songes, Rêves, Fantômes Nébuleux]], 28 novembre 2010
