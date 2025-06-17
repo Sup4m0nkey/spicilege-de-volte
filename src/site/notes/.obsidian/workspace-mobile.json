@@ -1,0 +1,195 @@
+{
+  "main": {
+    "id": "d1087d31a03e9f61",
+    "type": "split",
+    "children": [
+      {
+        "id": "eeed5afd0ad12922",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c8ebb135299e9d7a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2023 - Grimoire.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d91fe67fe93fd2c5",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "363c7a9575512cd6",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "93e13d032582ef0a",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "tag:#Tok",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "0dfeb5955dc77ab2",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "93831916c4f332fa",
+        "type": "leaf",
+        "state": {
+          "type": "starred",
+          "state": {}
+        }
+      },
+      {
+        "id": "ce0e76cb8a5af4d4",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {}
+        }
+      },
+      {
+        "id": "8740ea7ecb40b305",
+        "type": "leaf",
+        "state": {
+          "type": "all-properties",
+          "state": {
+            "sortOrder": "frequency"
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "a1e36d6314c20cf7",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "9877f94867d9f8d6",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "2023 - Grimoire.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "e2e7cf5b70a60766",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "2023 - Grimoire.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "e72109d93520406e",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "2023 - Grimoire.md"
+          }
+        }
+      },
+      {
+        "id": "e914d93de2d704c2",
+        "type": "leaf",
+        "state": {
+          "type": "DICE_ROLLER_VIEW",
+          "state": {}
+        }
+      }
+    ]
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "random-note:Open random note": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "audio-recorder:Start/stop recording": false
+    }
+  },
+  "active": "363c7a9575512cd6",
+  "lastOpenFiles": [
+    "Notes.md",
+    "Metasophia/Valeurs.md",
+    "Sprawlevane/Reservoir Lions.md",
+    "2023 - Grimoire.md",
+    "Metasophia/Sémantique.md",
+    "Textes/Nitam Ud Ro.md",
+    "Textes/She took me for a fool.md",
+    "ARG/Sapience/Citations & Maximes.md",
+    "Metasophia/Dasein.md",
+    "Xternal/How to write a roleplaying game.pdf",
+    "Tartare de Jeux/Ariane.canvas",
+    "Xternal/Comment on devient alchimiste.pdf",
+    "JdR.md",
+    "ARG/ARG System.md",
+    "Journal.md",
+    "ARG/Épreuves/Lettre Type.md",
+    "Projets.md",
+    "ARG/Épreuves/La Musique de St Michel/Église Jeanne d'Arc.md",
+    "Sans titre.canvas",
+    "Note d'exemple pour Riton.md",
+    "Sans titre.md",
+    "www.google.com.md",
+    "ARG/Épreuves/La Musique de St Michel.canvas",
+    "ARG/Sans titre.canvas",
+    "ARG/Sapience/Écoles de Magie.md",
+    "ARG/Épreuves/Indices.md",
+    "Untitled.md",
+    "Notes.sync-conflict-20230502-131449-3FOXF55.md",
+    "Mots d'esprit.sync-conflict-20230502-131516-GLSH6QK.md",
+    "2023.05.02.md",
+    "Mots d'esprit.md"
+  ]
+}

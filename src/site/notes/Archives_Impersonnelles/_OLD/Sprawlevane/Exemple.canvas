@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"type":"text","text":"Armitage","id":"eca5e12d5997d2f3","x":-260,"y":-160,"width":180,"height":60},
+		{"type":"text","text":"PJs","id":"61312abff5051eac","x":-234,"y":39,"width":129,"height":52},
+		{"type":"text","text":"Arasaka","id":"36b9e22a3c75e46f","x":440,"y":-160,"width":250,"height":60},
+		{"type":"text","text":"Militech","id":"59c0a4ee01d68786","x":-40,"y":-500,"width":250,"height":60}
+	],
+	"edges":[
+		{"id":"d38fd4f6f47c25bb","fromNode":"eca5e12d5997d2f3","fromSide":"right","toNode":"36b9e22a3c75e46f","toSide":"left","color":"5","label":"A travaillé pour"},
+		{"id":"737382f4a84d90a9","fromNode":"59c0a4ee01d68786","fromSide":"left","toNode":"eca5e12d5997d2f3","toSide":"top","color":"1","label":"Doit des thunes"},
+		{"id":"2f1502b0b2178563","fromNode":"eca5e12d5997d2f3","fromSide":"bottom","toNode":"61312abff5051eac","toSide":"top","label":"A embauché"}
+	]
+}

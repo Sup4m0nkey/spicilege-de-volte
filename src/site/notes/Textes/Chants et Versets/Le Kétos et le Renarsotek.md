@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/Textes/Chants et Versets/Le Kétos et le Renarsotek/","created":"2025-06-17T06:48:24.311+02:00","updated":"2025-06-17T02:49:05.046+02:00"}
+{"dg-publish":true,"permalink":"/textes/chants-et-versets/le-ketos-et-le-renarsotek/","created":"2024-05-25T20:56:29.744+02:00","updated":"2024-05-25T08:29:52.042+02:00"}
 ---
-
 
 
 Sieur Kétosaur, dans sa grotte caché, 

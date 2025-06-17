@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/Textes/Chants et Versets/Anglais/Under the Moon/","created":"2025-06-17T06:48:24.329+02:00","updated":"2025-06-17T02:49:04.990+02:00"}
+{"dg-publish":true,"permalink":"/textes/chants-et-versets/anglais/under-the-moon/","created":"2024-05-25T20:56:29.759+02:00","updated":"2024-05-25T14:46:11.923+02:00"}
 ---
-
 
 
 In the forest I am running

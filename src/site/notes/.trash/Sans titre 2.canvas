@@ -1,0 +1,12 @@
+{
+	"nodes":[
+		{"id":"82f4ae4c51252f01","x":-40,"y":-96,"width":165,"height":50,"color":"1","type":"text","text":""},
+		{"id":"b473439c75107944","x":-375,"y":-280,"width":250,"height":60,"type":"text","text":""},
+		{"id":"3eb2300abf5f1eba","x":-360,"y":80,"width":250,"height":60,"type":"text","text":""},
+		{"id":"8a72552faed1ffaf","x":280,"y":280,"width":400,"height":400,"type":"file","file":"Journal.md"}
+	],
+	"edges":[
+		{"id":"d1497884bece8ed6","fromNode":"3eb2300abf5f1eba","fromSide":"top","toNode":"82f4ae4c51252f01","toSide":"left"},
+		{"id":"62ca7e077e04fab3","fromNode":"82f4ae4c51252f01","fromSide":"right","toNode":"8a72552faed1ffaf","toSide":"left"}
+	]
+}

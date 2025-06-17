@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "inlineAdmonitions": {
+    "c77be722-fa3c-426d-8d84-1976af905e1a": {
+      "backgroundColor": "#000000",
+      "color": "#000000",
+      "slug": "c77be722-fa3c-426d-8d84-1976af905e1a",
+      "type": "prefix",
+      "prefix": "hide",
+      "hideTriggerString": true
+    }
+  }
+}

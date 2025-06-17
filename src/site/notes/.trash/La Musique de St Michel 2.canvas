@@ -1,0 +1,24 @@
+{
+	"nodes":[
+		{"type":"text","text":"1. 15 Place St Michel","id":"32ed5d4e45e1b642","x":-64,"y":-60,"width":295,"height":50},
+		{"type":"text","text":"2. La Musique","id":"1d962ec9a59cedeb","x":-64,"y":-110,"width":295,"height":50},
+		{"type":"text","text":"[[Rue Baudelaire]]","id":"631f1e4976211fd1","x":-142,"y":-261,"width":155,"height":61},
+		{"type":"text","text":"[[Opéra]]","id":"9cba87ae5d6b500c","x":160,"y":-261,"width":142,"height":61},
+		{"type":"text","text":"B. Place Stalingrad","id":"67e0f50d38c438e2","x":302,"y":-370,"width":250,"height":50},
+		{"type":"text","text":"[[Espace Noriac]]","id":"05351330b67d3ef2","x":-385,"y":-370,"width":243,"height":50},
+		{"type":"text","text":"C. Chappelle St Aurélien","id":"6d37160323bc9042","x":-64,"y":160,"width":295,"height":50},
+		{"type":"file","file":"ARG/Lieux/Église Jeanne d'Arc.md","id":"5d82860a30f2c688","x":-94,"y":-640,"width":356,"height":100}
+	],
+	"edges":[
+		{"id":"9df99c7b6c9c1c4b","fromNode":"05351330b67d3ef2","fromSide":"right","toNode":"631f1e4976211fd1","toSide":"top"},
+		{"id":"21d749d47d5e2346","fromNode":"631f1e4976211fd1","fromSide":"bottom","toNode":"1d962ec9a59cedeb","toSide":"top"},
+		{"id":"078abdfadce06789","fromNode":"05351330b67d3ef2","fromSide":"left","toNode":"6d37160323bc9042","toSide":"left","fromEnd":"arrow"},
+		{"id":"d958b20a8c4f4a04","fromNode":"6d37160323bc9042","fromSide":"top","toNode":"32ed5d4e45e1b642","toSide":"bottom"},
+		{"id":"12e04b5d36da150c","fromNode":"67e0f50d38c438e2","fromSide":"right","toNode":"6d37160323bc9042","toSide":"right","fromEnd":"arrow"},
+		{"id":"c52bac34bf24a928","fromNode":"67e0f50d38c438e2","fromSide":"left","toNode":"9cba87ae5d6b500c","toSide":"top","fromEnd":"arrow"},
+		{"id":"91446f70e8bcf102","fromNode":"9cba87ae5d6b500c","fromSide":"bottom","toNode":"1d962ec9a59cedeb","toSide":"top"},
+		{"id":"8dd62185935566ba","fromNode":"67e0f50d38c438e2","fromSide":"bottom","toNode":"32ed5d4e45e1b642","toSide":"right"},
+		{"id":"026779f4d89ea20b","fromNode":"631f1e4976211fd1","fromSide":"left","toNode":"05351330b67d3ef2","toSide":"bottom"},
+		{"id":"ed49bc2b638b0955","fromNode":"5d82860a30f2c688","fromSide":"bottom","toNode":"631f1e4976211fd1","toSide":"right"}
+	]
+}

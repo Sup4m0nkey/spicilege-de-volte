@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/Textes/Prosopopées/L’Anarchiste qui votait F.N./","created":"2025-06-17T08:17:57.554+02:00","updated":"2025-06-17T08:17:57.554+02:00"}
+dg-publish: true
 ---
-
 9 mai 2019
 
 Après 25 semaines de [révolte](https://fr.wikipedia.org/wiki/R%C3%A9volution?fbclid=IwAR0ibwuu88zJY6ZfEYlohLxcU6ruf4btQ1T0a2gPKa_lL0byuX_1DS_SMf8) populaire fluorescente, mais surtout après des années de militantisme maladroit et frisant le prosélytisme, j’ai décidé de voter F.N. aux élections européennes 2019.  
