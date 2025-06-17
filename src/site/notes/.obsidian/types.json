@@ -3,8 +3,6 @@
     "aliases": "aliases",
     "cssclasses": "multitext",
     "tags": "tags",
-    "dg-home": "checkbox",
-    "created": "datetime",
-    "updated": "datetime"
+    "dg-home": "checkbox"
   }
 }
