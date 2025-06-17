@@ -15,7 +15,6 @@
 - Donnie Darko
 - Midsommar
 - Jacob's Ladder
-- La Planète Sauvage
 
 #### Films Préférés
 #Film
@@ -61,7 +60,6 @@ Matrix
 - Eternal Sunshine of the Spotless Mind
 Cut
 A Scanner Darkly
-Numero 9
 
 #### Séries
 #Série
@@ -88,7 +86,6 @@ Michel Fugain - Une belle histoire
 #### Théâtre
 
 - The Man from Earth
-- Que ma Joie Demeure #Brozer 
 
 #### Conseillés
 
@@ -102,6 +99,7 @@ Michel Fugain - Une belle histoire
 - #Janjan Jean Philippe Smidt (Luccini, Uchronie)
 - #Janjan Yesterday (Uchronie)
 - A Ghost Story
+- La Planète Sauvage #Maëlstrom #Théocodore 
 
 ##### Séries
 

@@ -1,0 +1,209 @@
+{
+  "main": {
+    "id": "04378794dd172092",
+    "type": "split",
+    "children": [
+      {
+        "id": "a3e5ae197e15e053",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "26016b534ad3b217",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2024 - Jounal de Contre/2024.03 - Printemps qu'il faut.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2b5be9632d1cf2f2",
+    "type": "split",
+    "children": [
+      {
+        "id": "c8d1200c9402b187",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "59a4cee8fe48d75c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "491f4b27933ef206",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f0b2f677037b1da8",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "779ddbe64a16d735",
+    "type": "split",
+    "children": [
+      {
+        "id": "355c3d9edbb195dd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b13b694ffd57eb49",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "2024 - Jounal de Contre/2024.03 - Printemps qu'il faut.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d6fb418a47785e86",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "2024 - Jounal de Contre/2024.03 - Printemps qu'il faut.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "4313b2b64ac9b287",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "d0692917d3358ff8",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "2024 - Jounal de Contre/2024.03 - Printemps qu'il faut.md"
+              }
+            }
+          },
+          {
+            "id": "6e14dbc3a1638528",
+            "type": "leaf",
+            "state": {
+              "type": "DICE_ROLLER_VIEW",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Ouvrir le sélecteur rapide": false,
+      "graph:Ouvrir la vue graphique": false,
+      "canvas:Créer une nouvelle toile": false,
+      "daily-notes:Ouvrir la note quotidienne": false,
+      "templates:Insérer le modèle": false,
+      "command-palette:Ouvrir la palette de commandes": false,
+      "digitalgarden:Digital Garden Publication Center": false
+    }
+  },
+  "active": "26016b534ad3b217",
+  "lastOpenFiles": [
+    "Xternal/Occultus/The Way of Tarot - Alejandro Jodorowsky.pdf",
+    "Xternal/Occultus/The Tarot Of The Bohemians(1892).pdf",
+    "Xternal/Occultus/The Esoteric Tarot.pdf",
+    "Xternal/Occultus/Sigil zine v2.pdf",
+    "Xternal/Occultus/Rituel - Binding.pdf",
+    "Xternal/Occultus/Qabalistic Tarot.pdf",
+    "Xternal/Occultus/Poe Edgar Allan - Extrait Euréka.pdf",
+    "Xternal/Occultus/Papus - Agenda Magique.pdf",
+    "Xternal/Occultus/L'Initiation - Oct 1888.pdf",
+    "Xternal/Occultus/Esoteric.pdf",
+    "Xternal/Occultus/D'Alveydre Saint-Yves. - L'Archéomètre - Clef de toutes les religions et de toutes les sciences de l'Antiquité.pdf",
+    "Xternal/Noces.png",
+    "Xternal/Images/_Liste des pièces.jpg",
+    "Xternal/Images/_Liste PnJs.png",
+    "Xternal/Images/Gregory RETI 20230319_060046.jpg",
+    "Xternal/Images/St Michel ► Jeanne d'Arc.png",
+    "Xternal/Images/Cours Florent Limoges.jpg",
+    "Xternal/Images/363646977_256807643810200_1235819768153574084_n.jpg",
+    "Xternal/Cyrillique Tableau.gif",
+    "Xternal/ARG - BPM.png",
+    "Textes/Contes et Cauchemars/Fragments/Roman/Vivarium/Inquisiteur.md",
+    "Textes/Contes et Cauchemars/Fragments/Roman/Vivarium/Grand Prêtre.md",
+    "Textes/Contes et Cauchemars/Fragments/Roman/Vivarium/Chanteuse.md",
+    "Textes/Contes et Cauchemars/Fragments/Roman/2. Matin Difficile.md",
+    "Textes/Contes et Cauchemars/Fragments/Roman/1. Nuit Dansante.md",
+    "Textes/Contes et Cauchemars/Fragments/Roman/0. Plan et notes.md",
+    "Textes/Contes et Cauchemars/Fragments/100 Days/Day 2 - Things I love.md",
+    "Textes/Contes et Cauchemars/Fragments/100 Days/Day 3 - Objects.md",
+    "Textes/Contes et Cauchemars/Fragments/100 Days/Day 1 - Names.md",
+    "Routine.md",
+    "Notes.md",
+    "Metasophia/Sémantique.md",
+    "Metasophia/Kabbale - Arbre de vie.md",
+    "Metasophia/Holisme.md",
+    "Metasophia/Dasein.md",
+    "JdR.md",
+    "Inventions.md",
+    "Archives_Impersonnelles/Trinstiude/Passé, Présent, Futur - Versifiée.md",
+    "Archives_Impersonnelles/Trinstiude/Passé, Présent, Futur - Retravaillée.md",
+    "Archives_Impersonnelles/Trinstiude/Passé, Présent, Futur - Original.md",
+    "Archives_Impersonnelles/Terrier d'Alissandrins/Ma Fleur brumale.md",
+    "Archives_Impersonnelles/Terrier d'Alissandrins/La Provoc'.md",
+    "Archives_Impersonnelles/Terrier d'Alissandrins/Ceylan.md",
+    "Archives_Impersonnelles/Sprawlevane/Sprawl.md",
+    "Archives_Impersonnelles/Sprawlevane/Ressources.md",
+    "Archives_Impersonnelles/Sprawlevane/Microscope/1. With Janjan.canvas",
+    "Archives_Impersonnelles/Sprawlevane/Exemple.canvas",
+    "ARG/Épreuves/La Musique de St Michel/_Fil de Lieux.canvas"
+  ]
+}

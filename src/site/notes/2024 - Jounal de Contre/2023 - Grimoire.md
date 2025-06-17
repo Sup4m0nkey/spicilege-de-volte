@@ -476,7 +476,7 @@ Lien vers ligne précise
 #Penser à faire des outils (métaux, vêtements, épée, baguette)
 Forge ? #Projets 
 [Synarchie](https://fr.wikipedia.org/wiki/Synarchie) #SociétésSecrètes 
-Début de la recherche [[_σημαντικός - L'Essence de L'Atour de Bas-Bel]]
+Début de la recherche [[Sémantique]]
 
 #### Lecture :
 
@@ -576,7 +576,7 @@ Chaque jour, tu rencontreras :
 Le [[Valeurs|bien]], c'est le beau. Le mal, c'est le honteux.
 Aucun d'entre eux ne peut te blesser, car tu ne peux ressentir de la honte pour autre chose que tes propres actes. Cependant, tu peux tirer du beau de ce qu'il fait : une leçon (sur l'ego ou sur l'Univers).
 
-Notes [[_σημαντικός - L'Essence de L'Atour de Bas-Bel]]
+Notes [[Sémantique]]
 #Sémantique 
 Matin ► Postaube ? Prézénith ?
 Après Midi ► Postzénith ? Précrépuscule ?
@@ -585,7 +585,7 @@ Nuit ► Minuit - Aube / "Les Brumes"
 Midi = Zénith
 Minuit = Antezénith
 
-[[_σημαντικός - L'Essence de L'Atour de Bas-Bel#^Capital|Capital]] :
+[[Sémantique#^Capital|Capital]] :
 Ce qui se reproduit par soi-même
 - Argent
 - Possessions
