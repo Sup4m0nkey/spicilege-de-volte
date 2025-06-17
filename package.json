@@ -1,11 +1,13 @@
 {
+	"type": "module",
     "name": "web",
     "version": "1.0.0",
     "description": "",
     "main": "index.js",
     "scripts": {
+		"install:npm": "nmp install",
         "start": "npm-run-all get-theme build:sass --parallel watch:*",		
-		"install:eleventy": "npm install @11ty/eleventy",
+		"install:eleventy": "npm install @11ty/eleventy -g",
         "watch:sass": "sass --watch src/site/styles:dist/styles",
         "watch:eleventy": "cross-env ELEVENTY_ENV=dev eleventy --serve",
         "build:eleventy": "cross-env ELEVENTY_ENV=prod NODE_OPTIONS=--max-old-space-size=4096 eleventy",
