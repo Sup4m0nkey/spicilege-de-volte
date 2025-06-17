@@ -1,0 +1,2 @@
+
+Les Yaotiques ont envahi la ville. Les derniers Octosapiens se cachent dans certains des ballons qui permettent à la ville de flotter entre deux couches de l'atmosphère de Vénus. Les Spadassins Yaotiques décident d'enflammer ceux-ci, au risque de faire plonger Turbula dans les strates empoisonnées ; mais Yabuto-San, commandant en chef des Spadassins, n'écoute pas les conseils des experts, et prend quand-même la décision. Turbula plonge.

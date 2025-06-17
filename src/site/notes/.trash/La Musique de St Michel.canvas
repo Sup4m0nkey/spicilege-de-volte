@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"type":"text","text":"[[Debussy]]","id":"9bb64539e4462e4e","x":-80,"y":-160,"width":250,"height":60},
+		{"type":"text","text":"Poe","id":"29ed8aff37ef7243","x":-355,"y":-177,"width":115,"height":50},
+		{"type":"text","text":"[Baudelaire](Rue Baudelaire)\n","id":"bee107fef5b9adff","x":-355,"y":16,"width":195,"height":50},
+		{"type":"text","text":"Dumas","id":"839ff4cff380d57c","x":-75,"y":66,"width":120,"height":56}
+	],
+	"edges":[
+		{"id":"9e25cddcc9835519","fromNode":"bee107fef5b9adff","fromSide":"top","toNode":"29ed8aff37ef7243","toSide":"bottom","label":"Traducteur"},
+		{"id":"66f71186f7539188","fromNode":"9bb64539e4462e4e","fromSide":"left","toNode":"bee107fef5b9adff","toSide":"right","label":"Cinq Poèmes"},
+		{"id":"698f7bbedb42ed53","fromNode":"bee107fef5b9adff","fromSide":"bottom","toNode":"839ff4cff380d57c","toSide":"left","label":"Histoires de Vampires"}
+	]
+}

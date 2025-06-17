@@ -1,0 +1,2 @@
+
+Alors que l'Hexarchie peine à maintenir la cohérence de ses territoires, de multiples découvertes scientifiques révolutionnent drastiquement les systèmes politico-économiques et culturels du Système Solaire.
