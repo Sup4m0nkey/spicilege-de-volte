@@ -1,4 +1,22 @@
 {
+  "name": "@11ty/demo-eleventy-upgrade-help",
+  "version": "3.0.0",
+  "description": "",
+  "scripts": {
+    "build": "npx @11ty/eleventy --quiet",
+    "build-explicit-config-file": "npx @11ty/eleventy --quiet --config=does_not_exist.js",
+    "build-empty-formats": "npx @11ty/eleventy --quiet --formats=",
+    "build-compat": "node --experimental-require-module ./node_modules/@11ty/eleventy/cmd.cjs"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "@11ty/eleventy": "^3.0.0-beta.1",
+    "@11ty/eleventy-upgrade-help": "^3.0.1"
+  }
+}
+{
     "name": "web",
     "version": "1.0.0",
     "description": "",
