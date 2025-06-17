@@ -6,6 +6,8 @@
 ### Locutions Latines
 #Philosophie 
 Obstat Viae Fit Via (Les obstacles deviennent le chemin)
+{ #Dasein}
+
 Memento Mori (Souviens-toi -que tu es- mortel)
 Quid custodiet ispo custodes (Qui surveillera les gardiens)
 Amor Fati (Aime le Destin)
@@ -16,6 +18,8 @@ Vitam Impendere Vero (Dédie ta vie au Vrai)
 Cogito, Ergo Sum (Je pense donc je suis)
 Fac Si Facis (Fais-le si tu dois le faire)
 Carpe Diem (Cueille le jour)
+{ #15c66b}
+
 
 ### Créations originales
 Amor sapientiae nostra lex (L'amour de la Sagesse / Philosophie est notre loi)

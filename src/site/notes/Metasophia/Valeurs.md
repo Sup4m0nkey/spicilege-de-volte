@@ -21,7 +21,6 @@
 - Bienveillance (仁, jin / grandeur d'âme / compassion / générosité)
 - Politesse (礼, rei / étiquette / respect)
 - Sincérité (誠, makoto / honnêteté) { #MakotoSan}
-
 - Honneur (名誉, meiyō)
 - Loyauté (忠義, chūgi)
 
