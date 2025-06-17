@@ -1,5 +1,4 @@
 const dotenv = import('dotenv');
-dotenv.config();
 const axios = import("axios");
 const fs = import("fs");
 const crypto = import("crypto");
