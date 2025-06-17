@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/textes/contes-et-cauchemars/rengaw/","created":"2024-05-25T20:56:29.774+02:00","updated":"2024-05-25T08:30:33.869+02:00"}
+{"dg-publish":true,"permalink":"/Textes/Contes et Cauchemars/Rengaw/","created":"2025-06-17T06:48:24.349+02:00","updated":"2025-06-17T02:49:05.237+02:00"}
 ---
+
 
 
 J'ouvre les yeux. Il y a un problème. Notre réveil est prématuré. Il ne devait pas en être ainsi.

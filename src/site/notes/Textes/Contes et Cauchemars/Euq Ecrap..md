@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/textes/contes-et-cauchemars/euq-ecrap/","created":"2024-05-25T20:56:29.767+02:00","updated":"2024-05-25T08:29:35.658+02:00"}
+{"dg-publish":true,"permalink":"/Textes/Contes et Cauchemars/Euq Ecrap./","created":"2025-06-17T06:48:24.338+02:00","updated":"2025-06-17T02:49:05.145+02:00"}
 ---
+
 
 
 ..je referme les yeux. Tout est flou, alors à quoi bon les laisser ouverts. Je ne sens presque plus rien, et pourtant je sais qu'elle est là. Cette plaie béante dans mon abdomen, ce trou vide, ce néant, cette absence, anormale. L'étonnant, c'est que même ma chair boursouflée ne me torture plus. Toute sensation s'est évanouie, ne me reste que mon esprit, un océan de calme et de sérénité. Je sais que je n'ai pas tout accompli, mais je sais que tout peut se terminer sans moi. Alors, dans ce noir quasi absolu, je choisis de m'éteindre. Même mon sang qui abreuve la terre, même mes fluides se répandant sur le sol ne troublent plus le silence. Ce silence, c'est ma mort.

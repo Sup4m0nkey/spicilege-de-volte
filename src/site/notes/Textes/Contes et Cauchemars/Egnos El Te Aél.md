@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/textes/contes-et-cauchemars/egnos-el-te-ael/","created":"2024-05-25T20:56:29.764+02:00","updated":"2024-05-25T08:29:32.618+02:00"}
+{"dg-publish":true,"permalink":"/Textes/Contes et Cauchemars/Egnos El Te Aél/","created":"2025-06-17T06:48:24.334+02:00","updated":"2025-06-17T02:49:05.127+02:00"}
 ---
+
 
 
 La guerre fait rage. Sous le feu ennemi, je me tiens recroquevillé, l'arme à la main, alors que des éclats de métal et de plâtre tombent tout autour de moi.  

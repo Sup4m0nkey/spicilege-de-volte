@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/textes/chants-et-versets/ceci-n-est-pas-un-rap/","created":"2024-05-25T20:56:29.739+02:00","updated":"2024-05-25T08:29:27.699+02:00"}
+{"dg-publish":true,"permalink":"/Textes/Chants et Versets/Ceci n’est pas un Rap./","created":"2025-06-17T06:48:24.302+02:00","updated":"2025-06-17T02:49:05.008+02:00"}
 ---
+
 
 
 [Support musical](https://www.youtube.com/watch?v=iRT-WE9hQh8)
