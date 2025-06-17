@@ -1,0 +1,2 @@
+
+Des siècles d'expérimentations génétiques et biochimiques ont amené à la naissance de nouvelles formes de vie. Les échanges conscients entre les peuples issus de la sélection naturelle et ceux créés en laboratoire sont le cadre dans lequel la colonisation du Système Solaire devient une nécessité.

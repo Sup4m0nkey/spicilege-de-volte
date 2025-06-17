@@ -1,0 +1,24 @@
+
+- Une assiette de porcelaine au fond de laquelle on a émaillé un œil d'Horus
+- Un collier dont les pendentifs représentent les 3 religions abrahamiques : une main de Fatma, une étoile de David, et une croix de Jésus
+- Le bouton de ce pantalon est une montre à gousset
+- Une perruque verte
+- Un ordinateur intégré dans le mur
+- Une casserole en or
+- Une pièce de jeu d'échecs, un fou, dont la bouche a été peinte en violet
+- Une molaire de cheval
+- Une chaise pliante gravée de noms de nains, tous décédés au combat
+- Une photo sépia d'un homme nu courant vers un pot de fleur
+- Un panneau sens-interdit que la chaleur a fait cloquer
+- Une tête réduite de raton-laveur
+- Un fœtus de poussin dans un oeuf de Fabergé
+- Une casquette de marque "Frigidaire"
+- Un rouleau de billets de banque ; les visages représentés semblent tous terrorisés
+- Une banane en guimauve
+- Une médaille de Curling en platine
+- Un bouton de manchette célibataire en os
+- Une cloche d'église sert d'abreuvoir au milieu du champ
+- Une étagère, seule au milieu de la pièce, expose 38 épouvantails miniatures ; le reste de la salle est entièrement vide
+- Le bassin de cette piscine est rempli d'huile
+- Un restaurant qui sert de la viande de phoque frite dans du beurre breton
+- Sous le clavier du piano, quelqu'un a gravé "ne pas jouer à l'envers"
