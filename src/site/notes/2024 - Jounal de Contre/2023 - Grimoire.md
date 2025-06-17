@@ -378,7 +378,7 @@ Caractères Spéciaux et symboles sur Windows : [Special Alt Characters](https:/
 	- Pas de dogme, pas d'hérétique, pas d'exclusion, possibilité rejeter enseignement hormis [[Fraternité Humaine\|Fraternité Humaine]]
 	- Devise : « Il n'y a pas de religion supérieure à la vérité »
 
-[[Agonalogie/Personnages/_Mages Illustres\|_Mages Illustres]] :
+[[Agonalogie/Métasystème/Personnages/_Mages Illustres\|_Mages Illustres]] :
 - [Helena Blavatsky](https://fr.wikipedia.org/wiki/Helena_Blavatsky) #Théosophie
 - [Henry Steel Olcott](https://fr.wikipedia.org/wiki/Henry_Steel_Olcott) #Théosophie 
 - [Papus](https://fr.wikipedia.org/wiki/Papus) #Occultisme #Thaumaturgie #Kabbale #Martinisme 
@@ -412,7 +412,7 @@ J'ai bien avancé !
 - Mort du Comte de Gobelin ([Court de Gébelin](https://fr.wikipedia.org/wiki/Antoine_Court_de_G%C3%A9belin#%C5%92uvres) ?)
 - [St Aurélien](obsidian://open?vault=Grimoire&file=ARG%2F%C3%89preuves%2FLa%20Musique%20de%20St%20Michel%2FChapelle%20St%20Aur%C3%A9lien)
 
-Demain je bosse sur le tarot et sur l'[[Agonalogie/ARG System\|ARG System]].
+Demain je bosse sur le tarot et sur l'[[Agonalogie/Ébauches et Notes/ARG System\|ARG System]].
 
 
 
@@ -466,13 +466,13 @@ Je rappelle que la phrase précédente n'est pas grammaticalement correcte, mais
 #### #Obsidian
 
 Lien vers un titre spécifique : lien-ancre
-[[Agonalogie/JdR#TRAITS (/5)\|JdR#TRAITS (/5)]]
+[[Agonalogie/Ébauches et Notes/JdR#TRAITS (/5)\|JdR#TRAITS (/5)]]
 Mettre plusieurs hashtags
-[[Agonalogie/JdR#Penumbra Création Personnages\|JdR#Penumbra Création Personnages#TRAITS (/5)]]
+[[Agonalogie/Ébauches et Notes/JdR#Penumbra Création Personnages\|JdR#Penumbra Création Personnages#TRAITS (/5)]]
 Liens avec alias
-[[Agonalogie/JdR#Penumbra Création Personnages\|Penumbra Traits]]
+[[Agonalogie/Ébauches et Notes/JdR#Penumbra Création Personnages\|Penumbra Traits]]
 Lien vers ligne précise
-[[Agonalogie/JdR#^Exemple\|JdR#^Exemple]]
+[[Agonalogie/Ébauches et Notes/JdR#^Exemple\|JdR#^Exemple]]
 
 #### Gnose
 
@@ -486,7 +486,7 @@ Début de la recherche [[Metasophia/_σημαντικός - Deux Saints bols et 
 #### Lecture :
 
 - #EnCours Le grand dieu Pan - Arthur MACHEN
-- [[Agonalogie/Personnages/Maître Shoju\|Bayush]] : Premier chapitre de Sisyphe - Albert CAMUS #Philosophie
+- [[Agonalogie/Métasystème/Personnages/Maître Shoju\|Bayush]] : Premier chapitre de Sisyphe - Albert CAMUS #Philosophie
 
 #### ARG
 
@@ -608,7 +608,7 @@ Ce qui se reproduit par soi-même
 
 [[Holisme\|Holisme]]
 
-#EnCours #Penser Travailler sur [[Agonalogie/Jeux et Défis\|Jeux et Défis]] ► #Arts et [[Agonalogie/Sapience/Écoles de Magie\|Écoles de Magie]]
+#EnCours #Penser Travailler sur [[Agonalogie/Anim' de Soirée/Jeux et Défis\|Jeux et Défis]] ► #Arts et [[Agonalogie/Métasystème/Sapience/Écoles de Magie\|Écoles de Magie]]
 
 ### 2023.05.19 - Ménage & Sprawl
 
@@ -665,7 +665,7 @@ Playbooks — Livrets de Jeu = signaux à propos de ce qui intéresse les joueur
 
 #### Lecture
 
-#EnCours Camus - Sisyphe en audio à [[Agonalogie/Personnages/Maître Shoju\|Bayush]]
+#EnCours Camus - Sisyphe en audio à [[Agonalogie/Métasystème/Personnages/Maître Shoju\|Bayush]]
 Le Grand Dieu Pan
 
 
@@ -810,7 +810,7 @@ Mythes Coréens ► [Nota Bene](https://www.youtube.com/watch?v=XUVDiZEWISg)
 ### 2023.06.13 Triangulation et BFM
 
 #Acheter compas !
-[[Agonalogie/Lieux/Place de la Barreyrette\|Place de la Barreyrette]] - [[Agonalogie/Lieux/Place St Pierre\|Place St Pierre]] - [[Agonalogie/Lieux/15 Place St Michel\|15 Place St Michel]] = BPM
+[[Agonalogie/Métasystème/Lieux/Place de la Barreyrette\|Place de la Barreyrette]] - [[Agonalogie/Métasystème/Lieux/Place St Pierre\|Place St Pierre]] - [[Agonalogie/Métasystème/Lieux/15 Place St Michel\|15 Place St Michel]] = BPM
 
 Acheter Café
 { #20230614}
@@ -909,7 +909,7 @@ La vue gêne les autres percepteurs. Habitue-toi à nouveau à l'obscurité, afi
 Selon Marc Aurèle III-6 : les [[Metasophia/Valeurs\|Valeurs]] sont la Justice, la Sincérité, la Tempérance, le Courage et le Bien.
 
 Chaque Centime est une goutte de Temps ; ce n'est pas la seule matérialisation de celui-ci, mais c'est peut-être la plus commune et consensuelle.
-La semaine prochaine, va cacher la première ligne d'indices pour ton [[Agonalogie/ARG System\|ARG]]. Il te suffit de faire un faisceau de 3 indices qui pointent vers le 15 Place St Michel et vers chacun d'eux, et de mettre 3 ouvertures dans chaque.
+La semaine prochaine, va cacher la première ligne d'indices pour ton [[Agonalogie/Ébauches et Notes/ARG System\|ARG]]. Il te suffit de faire un faisceau de 3 indices qui pointent vers le 15 Place St Michel et vers chacun d'eux, et de mettre 3 ouvertures dans chaque.
 Le premier indice devrait être visible depuis le Menhir, Place des Barreyrettes.
 
 La bibliothèque municipale est gratuite. Tu iras faire ta carte ~~Lundi~~ , et tu emprunteras au moins une bande dessinée qui t'a été conseillée ou que tu connais de ton passé. Il faut que tu étudies la mise en scène pour avancer sur tes projets.
