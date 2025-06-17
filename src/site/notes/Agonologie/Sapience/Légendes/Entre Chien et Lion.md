@@ -1,0 +1,5 @@
+### [Orthos](https://fr.wikipedia.org/wiki/Orthos)
+Chien de [Géryon](https://fr.wikipedia.org/wiki/G%C3%A9ryon)
+Fils de [Typhon](https://fr.wikipedia.org/wiki/Typhon_(mythologie)) et [Echidna](https://fr.wikipedia.org/wiki/%C3%89chidna)
+Père du [Sphynx](https://fr.wikipedia.org/wiki/Sphinx_(mythologie_grecque)) (avec Pharaonne) et du [Lion de Némée](https://fr.wikipedia.org/wiki/Lion_de_N%C3%A9m%C3%A9e) (avec Séléné)
+Frère de [Cerbère](https://fr.wikipedia.org/wiki/Cerb%C3%A8re)

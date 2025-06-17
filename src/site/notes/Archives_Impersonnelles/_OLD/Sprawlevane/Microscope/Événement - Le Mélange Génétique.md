@@ -1,0 +1,2 @@
+
+Maishgobll, le chimiste personnel du Potentat Poulpesque, perce les secrets du mélange génétique. Ses nombreux Laboratoires d'État se mettent au travail : une génération de Super-Pieuvres génétiquement modifiée pour acquérir les capacités régénératrices de la Ruche voit le jour.
