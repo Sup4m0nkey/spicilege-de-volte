@@ -1,10 +1,3 @@
-const UpgradeHelper = require("@11ty/eleventy-upgrade-help");
-
-module.exports = function(eleventyConfig) {
-  // If you have other `addPlugin` calls, UpgradeHelper should be listed last.
-  eleventyConfig.addPlugin(UpgradeHelper);
-};
-
 [build]
   publish = "dist"
   command = "npm install && npm run build"
