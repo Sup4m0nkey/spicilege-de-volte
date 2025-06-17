@@ -1,4 +1,4 @@
-require("dotenv").config();
+var dotenv = import('dotenv').config({path: path.join(__dirname, '.env')})
 const axios = import("axios");
 const fs = import("fs");
 const crypto = import("crypto");
