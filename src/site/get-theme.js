@@ -1,8 +1,8 @@
-const dotenv = import('dotenv');
-const axios = import("axios");
-const fs = import("fs");
-const crypto = import("crypto");
-const {globSync} = import("glob");
+require("dotenv").config();
+const axios = require("axios");
+const fs = require("fs");
+const crypto = require("crypto");
+const {globSync} = require("glob");
 
 const themeCommentRegex = /\/\*[\s\S]*?\*\//g;
 
