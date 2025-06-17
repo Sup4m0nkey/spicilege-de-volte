@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/Textes/Chants et Versets/Ceci n’est pas un Rap./","created":"2025-06-17T08:46:56.097+02:00","updated":"2025-06-17T08:46:56.097+02:00"}
+{"dg-publish":true,"permalink":"/textes/chants-et-versets/ceci-n-est-pas-un-rap/","created":"2025-06-17T08:57:25.993+02:00","updated":"2025-06-17T08:57:25.993+02:00"}
 ---
+
 
 
 

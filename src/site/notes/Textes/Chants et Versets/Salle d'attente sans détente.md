@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/Textes/Chants et Versets/Salle d'attente sans détente/","created":"2025-06-17T08:46:56.100+02:00","updated":"2025-06-17T08:46:56.100+02:00"}
+{"dg-publish":true,"permalink":"/textes/chants-et-versets/salle-d-attente-sans-detente/","created":"2025-06-17T08:57:25.997+02:00","updated":"2025-06-17T08:57:25.997+02:00"}
 ---
+
 
 
 
