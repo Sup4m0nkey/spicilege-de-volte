@@ -1,0 +1,3 @@
+
+Les Artistes Biochimistes, des généticiens dont la passion est de "sculpter" génétiquement des formes de vie, ont tellement de talent que la ville qui les abrite — Turbula, une cité flottante Octosapiens de Vénus — voit les touristes affluer en masse à chacune de leurs représentations.
+Ce soir, le thème étant "là d'où l'on vient", ils sculpteront un blob, un tardigrade et un platane terrestres. Le gratin de la ville devrait être présent.

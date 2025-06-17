@@ -1,0 +1,1 @@
+Pendant la Guerre des Dix, des déserteurs de chaque faction s'unissent ; de ces unions est né un métissage qui, au fil du temps, donne naissance à une espèce à part entière.

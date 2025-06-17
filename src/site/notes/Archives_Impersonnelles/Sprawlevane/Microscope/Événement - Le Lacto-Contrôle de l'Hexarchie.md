@@ -1,0 +1,3 @@
+
+La Ruche envoie des Esclaves-de-Troie, des Yaourts dont la conscience n'est pas séparée de la Ruche, aux Six Rois de l'Hexarchie pour les "servir". Son but est, en fait, de parasiter et asservir les Six Rois.
+Les Spiritolactiques, physiquement séparés mais mentalement reliés à la Ruche, entrent par l'oreille, enveloppent le cerveau, et donnent ainsi total contrôle du corps à la conscience collective Yaourt.
