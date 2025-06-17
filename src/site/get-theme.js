@@ -1,4 +1,4 @@
-import("dotenv").config();
+require("dotenv").config();
 const axios = import("axios");
 const fs = import("fs");
 const crypto = import("crypto");
