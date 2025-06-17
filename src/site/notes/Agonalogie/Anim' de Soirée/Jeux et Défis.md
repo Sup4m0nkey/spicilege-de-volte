@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/agonalogie/anim-de-soiree/jeux-et-defis/","hide":true,"noteIcon":"","created":"2025-06-17T02:49:04.849+02:00"}
+{"dg-publish":true,"permalink":"/agonalogie/anim-de-soiree/jeux-et-defis/","noteIcon":"","created":"2025-06-17T02:49:04.849+02:00"}
 ---
 
 
