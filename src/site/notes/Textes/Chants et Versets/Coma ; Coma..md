@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/textes/chants-et-versets/coma-coma/","created":"2025-06-17T08:57:25.994+02:00","updated":"2025-06-17T08:57:25.994+02:00"}
+{"dg-publish":true,"permalink":"/textes/chants-et-versets/coma-coma/","noteIcon":"","created":"2025-06-17T02:49:05.016+02:00","updated":"2025-06-17T02:49:05.016+02:00"}
 ---
-
 
 
 

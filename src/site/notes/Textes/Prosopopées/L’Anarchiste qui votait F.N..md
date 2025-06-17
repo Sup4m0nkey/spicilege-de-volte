@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/textes/prosopopees/l-anarchiste-qui-votait-f-n/","created":"2025-06-17T08:57:26.007+02:00","updated":"2025-06-17T08:57:26.007+02:00"}
+{"dg-publish":true,"permalink":"/textes/prosopopees/l-anarchiste-qui-votait-f-n/","noteIcon":"","created":"2024-05-29T11:28:20.837+02:00","updated":"2024-05-28T18:10:18.821+02:00"}
 ---
-
 
 9 mai 2019
 

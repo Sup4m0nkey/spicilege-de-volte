@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/textes/contes-et-cauchemars/euq-ecrap/","created":"2025-06-17T08:57:25.999+02:00","updated":"2025-06-17T08:57:25.999+02:00"}
+{"dg-publish":true,"permalink":"/textes/contes-et-cauchemars/euq-ecrap/","noteIcon":"","created":"2025-06-17T02:49:05.144+02:00","updated":"2025-06-17T02:49:05.145+02:00"}
 ---
-
 
 
 

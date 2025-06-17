@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/textes/contes-et-cauchemars/eryn/","created":"2025-06-17T08:57:25.998+02:00","updated":"2025-06-17T08:57:25.998+02:00"}
+{"dg-publish":true,"permalink":"/textes/contes-et-cauchemars/eryn/","noteIcon":"","created":"2025-06-17T02:49:05.136+02:00","updated":"2025-06-17T02:49:05.136+02:00"}
 ---
-
 
 
 

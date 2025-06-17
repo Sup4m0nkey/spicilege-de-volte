@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/textes/chants-et-versets/le-ketos-et-le-renarsotek/","created":"2025-06-17T08:57:25.995+02:00","updated":"2025-06-17T08:57:25.995+02:00"}
+{"dg-publish":true,"permalink":"/textes/chants-et-versets/le-ketos-et-le-renarsotek/","noteIcon":"","created":"2025-06-17T02:49:05.046+02:00","updated":"2025-06-17T02:49:05.046+02:00"}
 ---
-
 
 
 

@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/textes/contes-et-cauchemars/l-appel-de-la-foret/","created":"2025-06-17T08:57:26.003+02:00","updated":"2025-06-17T08:57:26.003+02:00"}
+{"dg-publish":true,"permalink":"/textes/contes-et-cauchemars/l-appel-de-la-foret/","noteIcon":"","created":"2024-05-29T11:28:20.794+02:00","updated":"2024-05-28T18:10:18.818+02:00"}
 ---
-
 
 
 Je cours. Sans fin, je cours. Pourtant, je ne sais pas pourquoi. Suis-je poursuivi ? Ou peut-être suis-je en chasse ? Je n'en sais rien, je sais juste que je cours. Les arbres défilent autour de moi, l'herbe chatouille mon torse. Mon torse ? Ah, oui, je suis à quatre pattes. Je cours, je sens mon souffle brûler mes poumons, ma gorge puis ma langue. Je sens ma salive dégouliner entre mes dents, et voler derrière moi, emportée par le vent de ma course effrénée. Les longues foulées s'accélèrent encore, si c'est possible. Je cours de plus en plus vite, je ne peux dire pourquoi. Je me sens simplement pressé par le temps.

@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/textes/contes-et-cauchemars/rehtorb-daed/","created":"2025-06-17T08:57:26.004+02:00","updated":"2025-06-17T08:57:26.004+02:00"}
+{"dg-publish":true,"permalink":"/textes/contes-et-cauchemars/rehtorb-daed/","noteIcon":"","created":"2025-06-17T02:49:05.228+02:00","updated":"2025-06-17T02:49:05.228+02:00"}
 ---
-
 
 
 

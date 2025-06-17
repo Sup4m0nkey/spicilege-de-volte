@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/textes/chants-et-versets/acitore/","created":"2025-06-17T08:57:25.991+02:00","updated":"2025-06-17T08:57:25.991+02:00"}
+{"dg-publish":true,"permalink":"/textes/chants-et-versets/acitore/","noteIcon":"","created":"2025-06-17T02:49:04.961+02:00","updated":"2025-06-17T02:49:04.962+02:00"}
 ---
-
 
 
 

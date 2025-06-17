@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/mots-d-esprit/","created":"2025-06-17T08:57:25.990+02:00","updated":"2025-06-17T09:05:47.026+02:00"}
+{"dg-publish":true,"permalink":"/mots-d-esprit/","noteIcon":"","created":"2025-06-17T02:49:04.942+02:00","updated":"2025-06-17T03:12:57.041+02:00"}
 ---
-
 
 
 La baignoire / La baie noire / L'abbé noir

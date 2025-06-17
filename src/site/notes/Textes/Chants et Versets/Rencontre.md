@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/textes/chants-et-versets/rencontre/","created":"2025-06-17T08:57:25.996+02:00","updated":"2025-06-17T08:57:25.996+02:00"}
+{"dg-publish":true,"permalink":"/textes/chants-et-versets/rencontre/","noteIcon":"","created":"2025-06-17T02:49:05.069+02:00","updated":"2025-06-17T02:49:05.069+02:00"}
 ---
-
 
 
 

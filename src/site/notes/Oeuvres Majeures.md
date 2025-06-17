@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/oeuvres-majeures/","created":"2025-06-17T08:57:25.991+02:00","updated":"2025-06-17T08:57:25.991+02:00"}
+{"dg-publish":true,"permalink":"/oeuvres-majeures/","noteIcon":"","created":"2025-06-17T02:49:04.952+02:00","updated":"2025-06-17T03:13:06.482+02:00"}
 ---
-
 
 
 #Arts #Penser #Projets #EnCours 

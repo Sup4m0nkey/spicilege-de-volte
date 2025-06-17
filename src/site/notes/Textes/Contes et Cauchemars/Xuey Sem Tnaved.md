@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/textes/contes-et-cauchemars/xuey-sem-tnaved/","created":"2025-06-17T08:57:26.005+02:00","updated":"2025-06-17T08:57:26.005+02:00"}
+{"dg-publish":true,"permalink":"/textes/contes-et-cauchemars/xuey-sem-tnaved/","noteIcon":"","created":"2025-06-17T02:49:05.253+02:00","updated":"2025-06-17T02:49:05.254+02:00"}
 ---
-
 
 
 

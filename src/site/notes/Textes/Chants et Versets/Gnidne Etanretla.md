@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/textes/chants-et-versets/gnidne-etanretla/","created":"2025-06-17T08:57:25.995+02:00","updated":"2025-06-17T08:57:25.995+02:00"}
+{"dg-publish":true,"permalink":"/textes/chants-et-versets/gnidne-etanretla/","noteIcon":"","created":"2025-06-17T02:49:05.039+02:00","updated":"2025-06-17T02:49:05.039+02:00"}
 ---
-
 
 
 

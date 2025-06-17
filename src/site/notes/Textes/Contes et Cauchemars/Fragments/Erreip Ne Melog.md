@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/textes/contes-et-cauchemars/fragments/erreip-ne-melog/","created":"2025-06-17T08:57:25.999+02:00","updated":"2025-06-17T08:57:25.999+02:00"}
+{"dg-publish":true,"permalink":"/textes/contes-et-cauchemars/fragments/erreip-ne-melog/","noteIcon":"","created":"2025-06-17T02:49:05.161+02:00","updated":"2025-06-17T02:49:05.162+02:00"}
 ---
-
 
 
 

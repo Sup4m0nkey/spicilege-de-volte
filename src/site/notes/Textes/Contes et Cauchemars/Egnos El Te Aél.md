@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/textes/contes-et-cauchemars/egnos-el-te-ael/","created":"2025-06-17T08:57:25.998+02:00","updated":"2025-06-17T08:57:25.998+02:00"}
+{"dg-publish":true,"permalink":"/textes/contes-et-cauchemars/egnos-el-te-ael/","noteIcon":"","created":"2025-06-17T02:49:05.127+02:00","updated":"2025-06-17T02:49:05.127+02:00"}
 ---
-
 
 
 

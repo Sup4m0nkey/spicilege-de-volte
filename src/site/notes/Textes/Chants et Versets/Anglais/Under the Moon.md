@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/textes/chants-et-versets/anglais/under-the-moon/","created":"2025-06-17T08:57:25.992+02:00","updated":"2025-06-17T08:57:25.992+02:00"}
+{"dg-publish":true,"permalink":"/textes/chants-et-versets/anglais/under-the-moon/","noteIcon":"","created":"2025-06-17T02:49:04.989+02:00","updated":"2025-06-17T02:49:04.990+02:00"}
 ---
-
 
 
 
