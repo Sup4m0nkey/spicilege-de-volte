@@ -433,7 +433,7 @@ Demain je bosse sur le tarot et sur l'[[Agonalogie/Ébauches et Notes/ARG System
 
 Ceci est un [[Note d'exemple pour Riton\|Note d'exemple pour Riton]], c'est double crochets ([])
 Ceci est un lien externe vers l'[Apodictique](https://fr.wikipedia.org/wiki/Apodictique)
-Lien vers [[Metasophia/Valeurs\|Valeurs]], [[Principes\|Principes]], 
+Lien vers [[Sapiosophie/Ars et Logos/Valeurs\|Valeurs]], [[Principes\|Principes]], 
 
 ##### Ceci est le second paragraphe
 
@@ -481,7 +481,7 @@ Lien vers ligne précise
 #Penser à faire des outils (métaux, vêtements, épée, baguette)
 Forge ? #Projets 
 [Synarchie](https://fr.wikipedia.org/wiki/Synarchie) #SociétésSecrètes 
-Début de la recherche [[Metasophia/_σημαντικός - Deux Saints bols et d'Essence\|_σημαντικός - Deux Saints bols et d'Essence]]
+Début de la recherche [[Sapiosophie/Babel et l'Abîme/_σημαντικός - Deux Saints bols et d'Essence\|_σημαντικός - Deux Saints bols et d'Essence]]
 
 #### Lecture :
 
@@ -578,10 +578,10 @@ Chaque jour, tu rencontreras :
 - Un fourbe
 - un envieux
 - un égoiste
-Le [[Metasophia/Valeurs\|bien]], c'est le beau. Le mal, c'est le honteux.
+Le [[Sapiosophie/Ars et Logos/Valeurs\|bien]], c'est le beau. Le mal, c'est le honteux.
 Aucun d'entre eux ne peut te blesser, car tu ne peux ressentir de la honte pour autre chose que tes propres actes. Cependant, tu peux tirer du beau de ce qu'il fait : une leçon (sur l'ego ou sur l'Univers).
 
-Notes [[Metasophia/_σημαντικός - Deux Saints bols et d'Essence\|_σημαντικός - Deux Saints bols et d'Essence]]
+Notes [[Sapiosophie/Babel et l'Abîme/_σημαντικός - Deux Saints bols et d'Essence\|_σημαντικός - Deux Saints bols et d'Essence]]
 #Sémantique 
 Matin ► Postaube ? Prézénith ?
 Après Midi ► Postzénith ? Précrépuscule ?
@@ -590,7 +590,7 @@ Nuit ► Minuit - Aube / "Les Brumes"
 Midi = Zénith
 Minuit = Antezénith
 
-[[Metasophia/_σημαντικός - Deux Saints bols et d'Essence#^Capital\|Capital]] :
+[[Sapiosophie/Babel et l'Abîme/_σημαντικός - Deux Saints bols et d'Essence#^Capital\|Capital]] :
 Ce qui se reproduit par soi-même
 - Argent
 - Possessions
@@ -767,7 +767,7 @@ Pioche donc chez chacun la nourriture de ton âme.
 
 "Le mieux est l'ennemi du bien."
 Sont-ce vraiment des ennemis ? Cette maxime t'enjoint à cesser de chercher la perfection lorsque, objectivement, la situation actuelle est "bien".
-Mais si le Bien n'est que l'hypéronymie des [[Metasophia/Valeurs\|Valeurs]], comment le Bien pourrait-il être autre chose que le Meilleur, le Mieux ?
+Mais si le Bien n'est que l'hypéronymie des [[Sapiosophie/Ars et Logos/Valeurs\|Valeurs]], comment le Bien pourrait-il être autre chose que le Meilleur, le Mieux ?
 
 #Acheter Huile essentielle de Girofle
 
@@ -786,7 +786,7 @@ Crest ► Commandements indirects
 
 ### 2023.06.12 Jeanjean & ARG
 
-Selon Marc Aurèle III-11 et III-12, tu dois aborder le monde avec les [[Metasophia/Valeurs\|intentions]] qui lui correspondent :
+Selon Marc Aurèle III-11 et III-12, tu dois aborder le monde avec les [[Sapiosophie/Ars et Logos/Valeurs\|intentions]] qui lui correspondent :
 - Douceur
 - Courage
 - Sincérité
@@ -800,7 +800,7 @@ Selon Marc Aurèle III-11 et III-12, tu dois aborder le monde avec les [[Metasop
 - Bonne Humeur
 Ton corps, ce sont tes sens ; ton esprit, tu pourrais l'appeler également ton intellect, ce sont tes principes ; et enfin ton âme, qui vient de *anima* et qui a donné *animal*, ce sont tes instincts. Ton âme est-elle ton Conatus ? Ton esprit serait alors ton Habitus ?
 N'importe quelle créature est soumise à son corps, son esprit et son âme.
-Ce qui fait que tu es un Humain, c'est ta capacité à harmoniser les trois, à faire en sorte qu'aucun ne contredise les autres, mais également à les harmoniser avec les [[Metasophia/Valeurs\|charismes]], le Bien, en sorte. 
+Ce qui fait que tu es un Humain, c'est ta capacité à harmoniser les trois, à faire en sorte qu'aucun ne contredise les autres, mais également à les harmoniser avec les [[Sapiosophie/Ars et Logos/Valeurs\|charismes]], le Bien, en sorte. 
 
 #Acheter #Lire [Le Dictionnaire Odonymique de Limoges](https://www.monlimousin.fr/produit/dictionnaire-rues-de-limoges/)
 La Tabatière se trouve rue Rafilhoux.
@@ -906,7 +906,7 @@ Les mondanités t'intéressent de moins en moins à mesure que le temps passe. E
 
 La vue gêne les autres percepteurs. Habitue-toi à nouveau à l'obscurité, afin de mieux appréhender les autres sensations.
 
-Selon Marc Aurèle III-6 : les [[Metasophia/Valeurs\|Valeurs]] sont la Justice, la Sincérité, la Tempérance, le Courage et le Bien.
+Selon Marc Aurèle III-6 : les [[Sapiosophie/Ars et Logos/Valeurs\|Valeurs]] sont la Justice, la Sincérité, la Tempérance, le Courage et le Bien.
 
 Chaque Centime est une goutte de Temps ; ce n'est pas la seule matérialisation de celui-ci, mais c'est peut-être la plus commune et consensuelle.
 La semaine prochaine, va cacher la première ligne d'indices pour ton [[Agonalogie/Ébauches et Notes/ARG System\|ARG]]. Il te suffit de faire un faisceau de 3 indices qui pointent vers le 15 Place St Michel et vers chacun d'eux, et de mettre 3 ouvertures dans chaque.
@@ -923,7 +923,7 @@ Si ta volonté persiste, alors ton opinion persiste, et devient un pilier au mil
 
 Par conséquent, lorsque tu accordes ta *confiance*, c'est à dire lorsque tu partages ta Responsabilité volontairement, alors tu conditionnes ta Volonté à celle d'un(e) autre.
 
-Garde en ton esprit les 4 [[Metasophia/Valeurs\|Principes]] relationnels :
+Garde en ton esprit les 4 [[Sapiosophie/Ars et Logos/Valeurs\|Principes]] relationnels :
 - Bienveillance
 - Partage
 - Confiance
@@ -1007,7 +1007,7 @@ Lorsque le crépuscule arrive, prépare le lendemain, car ce n'est pas toi qui t
 Prends **ton** temps et défends-le.
 
 L'injustice que tu ressens, d'où vient-elle ? Es-tu responsable de cette passion ? Sois juste envers toi-même autant qu'envers l'autre.
-Dis et fais ce que tes objectifs demandent, ce que tes [[Metasophia/Valeurs#Charismes\|Charismes]] demandent et ce que la fiction demande.
+Dis et fais ce que tes objectifs demandent, ce que tes [[Sapiosophie/Ars et Logos/Valeurs#Charismes\|Charismes]] demandent et ce que la fiction demande.
 
 Le silence te pèse-t-il ? Pourquoi ?
 L'enfant pense à lui-même.
