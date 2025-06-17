@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/Textes/Chants et Versets/Nodrap, Élosed/","created":"2025-06-17T08:46:56.099+02:00","updated":"2025-06-17T08:46:56.099+02:00"}
+{"dg-publish":true,"permalink":"/textes/chants-et-versets/nodrap-elosed/","created":"2025-06-17T08:57:25.996+02:00","updated":"2025-06-17T08:57:25.996+02:00"}
 ---
+
 
 
 

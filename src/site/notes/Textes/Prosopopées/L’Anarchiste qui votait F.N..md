@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/Textes/Prosopopées/L’Anarchiste qui votait F.N./","created":"2025-06-17T08:46:56.109+02:00","updated":"2025-06-17T08:46:56.109+02:00"}
+{"dg-publish":true,"permalink":"/textes/prosopopees/l-anarchiste-qui-votait-f-n/","created":"2025-06-17T08:57:26.007+02:00","updated":"2025-06-17T08:57:26.007+02:00"}
 ---
+
 
 9 mai 2019
 

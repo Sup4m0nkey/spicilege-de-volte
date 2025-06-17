@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/Textes/Contes et Cauchemars/Euq Ecrap./","created":"2025-06-17T08:46:56.102+02:00","updated":"2025-06-17T08:46:56.102+02:00"}
+{"dg-publish":true,"permalink":"/textes/contes-et-cauchemars/euq-ecrap/","created":"2025-06-17T08:57:25.999+02:00","updated":"2025-06-17T08:57:25.999+02:00"}
 ---
+
 
 
 

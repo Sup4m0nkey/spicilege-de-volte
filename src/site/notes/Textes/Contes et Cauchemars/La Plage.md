@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/Textes/Contes et Cauchemars/La Plage/","created":"2025-06-17T08:46:56.106+02:00","updated":"2025-06-17T08:46:56.106+02:00"}
+{"dg-publish":true,"permalink":"/textes/contes-et-cauchemars/la-plage/","created":"2025-06-17T08:57:26.004+02:00","updated":"2025-06-17T08:57:26.004+02:00"}
 ---
+
 
 
 

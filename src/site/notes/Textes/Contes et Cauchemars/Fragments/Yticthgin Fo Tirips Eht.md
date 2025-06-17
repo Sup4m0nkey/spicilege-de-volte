@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/Textes/Contes et Cauchemars/Fragments/Yticthgin Fo Tirips Eht/","created":"2025-06-17T08:46:56.105+02:00","updated":"2025-06-17T08:46:56.105+02:00"}
+{"dg-publish":true,"permalink":"/textes/contes-et-cauchemars/fragments/yticthgin-fo-tirips-eht/","created":"2025-06-17T08:57:26.002+02:00","updated":"2025-06-17T08:57:26.002+02:00"}
 ---
+
 
 
 

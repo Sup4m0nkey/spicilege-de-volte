@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/Textes/Prosopopées/Camembert Alu - Les Mites de Zizi-Feu/","created":"2025-06-17T08:46:56.108+02:00","updated":"2025-06-17T08:46:56.108+02:00"}
+{"dg-publish":true,"permalink":"/textes/prosopopees/camembert-alu-les-mites-de-zizi-feu/","created":"2025-06-17T08:57:26.006+02:00","updated":"2025-06-17T08:57:26.006+02:00"}
 ---
+
 
 
 
