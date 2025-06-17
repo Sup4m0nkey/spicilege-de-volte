@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/textes/chants-et-versets/coma-coma/","noteIcon":"","created":"2025-06-17T02:49:05.016+02:00","updated":"2025-06-17T02:49:05.016+02:00"}
+{"dg-publish":true,"permalink":"/textes/chants-et-versets/coma-coma/","noteIcon":"","created":"2025-06-17T02:49:05.016+02:00"}
 ---
 
 
@@ -13,5 +13,3 @@ Pensant peut-être m'échapper subrepticement ;
 Mais j'avais omis l'insupportable silence !
 Il m'enveloppa de solitude.
 Dormir, c'est s'isoler.
-
-2024.04.30

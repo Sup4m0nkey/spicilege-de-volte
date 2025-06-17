@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/metasophia/citations-and-maximes/","noteIcon":"","created":"2025-06-17T02:49:04.930+02:00","updated":"2025-06-17T02:49:04.930+02:00"}
+{"dg-publish":true,"permalink":"/metasophia/citations-and-maximes/","noteIcon":"","created":"2025-06-17T02:49:04.930+02:00"}
 ---
 
 

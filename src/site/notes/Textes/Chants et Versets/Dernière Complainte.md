@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/textes/chants-et-versets/derniere-complainte/","noteIcon":"","created":"2025-06-17T02:49:05.023+02:00","updated":"2025-06-17T02:49:05.024+02:00"}
+{"dg-publish":true,"permalink":"/textes/chants-et-versets/derniere-complainte/","noteIcon":"","created":"2025-06-17T02:49:05.023+02:00"}
 ---
 
 

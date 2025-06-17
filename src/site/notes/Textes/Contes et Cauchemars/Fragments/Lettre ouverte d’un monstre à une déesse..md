@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/textes/contes-et-cauchemars/fragments/lettre-ouverte-d-un-monstre-a-une-deesse/","noteIcon":"","created":"2025-06-17T02:49:05.184+02:00","updated":"2025-06-17T02:49:05.184+02:00"}
+{"dg-publish":true,"permalink":"/textes/contes-et-cauchemars/fragments/lettre-ouverte-d-un-monstre-a-une-deesse/","noteIcon":"","created":"2025-06-17T02:49:05.184+02:00"}
 ---
 
 

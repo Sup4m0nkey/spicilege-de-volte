@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/textes/contes-et-cauchemars/euq-ecrap/","noteIcon":"","created":"2025-06-17T02:49:05.144+02:00","updated":"2025-06-17T02:49:05.145+02:00"}
+{"dg-publish":true,"permalink":"/textes/contes-et-cauchemars/euq-ecrap/","noteIcon":"","created":"2025-06-17T02:49:05.144+02:00"}
 ---
 
 
@@ -15,5 +15,3 @@ Elle est arrivée, là, sans prévenir. Elle se tenait sous un arbre, et le dés
 Je me suis perdu dans ses yeux, et le coup de feu a retenti. L'orgasme a pris mes tripes, et l'explosion les a dispersées autour de moi. Mon sang a jailli, bouillon rouge et noir, éclaboussant sa robe blanche et verte, sa robe de pétales de roses. Elle souriait, et le canon de son arme, pointé vers mon crâne, fumait encore. La fumée voila son visage, ou peut-être étaient-ce mes yeux qui se troublaient d'amour et de haine. Puis le soulagement m'envahit, et je m'écroulai à même le sol, tas de chair fumante dont il manquait le bassin. Mais que suis-je ? Est-ce un rêve, un fantasme, un espoir ? Non. Je n'existe que dans l'esprit d'un Dieu malsain, je suis l'élément incontrôlable, la mort de l'imagination, et pourtant, je suis heureux. Je vis, car je meurs, et chaque seconde qu'il me reste à exister est un plaisir immense et une souffrance infinie. Je vis, car je ressens, et tout ce qui a manqué dans mon existence m'est maintenant offert sur un plateau d'or et d'argent. Ce qui a manqué ? La fin.
 
 ...et c'est la fin.
-
-4 avril 2012

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/textes/chants-et-versets/transcendance/","noteIcon":"","created":"2025-06-17T02:49:05.090+02:00","updated":"2025-06-17T02:49:05.090+02:00"}
+{"dg-publish":true,"permalink":"/textes/chants-et-versets/transcendance/","noteIcon":"","created":"2025-06-17T02:49:05.090+02:00"}
 ---
 
 

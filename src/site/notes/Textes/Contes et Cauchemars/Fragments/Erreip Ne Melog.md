@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/textes/contes-et-cauchemars/fragments/erreip-ne-melog/","noteIcon":"","created":"2025-06-17T02:49:05.161+02:00","updated":"2025-06-17T02:49:05.162+02:00"}
+{"dg-publish":true,"permalink":"/textes/contes-et-cauchemars/fragments/erreip-ne-melog/","noteIcon":"","created":"2025-06-17T02:49:05.161+02:00"}
 ---
 
 
@@ -13,5 +13,3 @@ Ce sourire, je lui ai rendu, et je l'ai saluée. Elle est restée comme interdit
 Il y avait un bal, un peu plus loin. Nous avons dansé, avec quelques amis à moi, puis nous nous sommes retirés pour terminer la soirée au son des libellules. C'est alors qu'elle m'a posé la question fatidique : "M'aimes-tu ?" m'a-t-elle chuchoté de sa voix douce et claire. "Oui", j'ai répondu. Ce simple mot, une seule syllabe si lourde de sens et de réponses.
 
 Alors elle a sorti son grimoire. Elle m'a entaillé le bout d'un doigt avec sa plume, et fait couler un peu de sang sur sa paume ; puis elle a incanté, et me voilà. Je suis son Golem, je réponds à ses souhaits, et je l'aime, plus que jamais.
-
-22 décembre 2018

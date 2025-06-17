@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/textes/contes-et-cauchemars/fragments/snoixelfer/","noteIcon":"","created":"2025-06-17T02:49:05.197+02:00","updated":"2025-06-17T02:49:05.197+02:00"}
+{"dg-publish":true,"permalink":"/textes/contes-et-cauchemars/fragments/snoixelfer/","noteIcon":"","created":"2025-06-17T02:49:05.197+02:00"}
 ---
 
 
@@ -10,5 +10,3 @@ Plus jeune, je m'imaginais Pirate, naviguant sur des mers déchaînées, bravant
 J'espérais une vie trépidante, pleine d'aventures, de péripéties et de rebondissements; je me voyais triompher de périls innombrables, vainqueur et héros de guerres titanesques, adoré et aimé de tous...
 
 Mes songes se sont effacés au fil des années, mes désillusions emplissant mon cœur de tristesse, à mesure que je m'habituais à la morne routine qui compose désormais nos vies fades et notre déprimante réalité.
-
-29 août 2013

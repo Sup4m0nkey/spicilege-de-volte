@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/textes/chants-et-versets/baudelaire-la-musique/","noteIcon":"","created":"2024-05-29T11:28:20.734+02:00","updated":"2024-05-28T18:10:18.810+02:00"}
+{"dg-publish":true,"permalink":"/textes/chants-et-versets/baudelaire-la-musique/","noteIcon":"","created":"2024-05-29T11:28:20.734+02:00"}
 ---
 
 

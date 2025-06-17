@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/textes/prosopopees/chaleur-chagrine/","noteIcon":"","created":"2025-06-17T20:17:16.204+02:00","updated":"2025-06-17T20:17:16.205+02:00"}
+{"dg-publish":true,"permalink":"/textes/prosopopees/chaleur-chagrine/","noteIcon":"","created":"2025-06-17T20:17:16.204+02:00"}
 ---
 
 

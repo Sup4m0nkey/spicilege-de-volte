@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/textes/contes-et-cauchemars/l-appel-de-la-foret/","noteIcon":"","created":"2024-05-29T11:28:20.794+02:00","updated":"2024-05-28T18:10:18.818+02:00"}
+{"dg-publish":true,"permalink":"/textes/contes-et-cauchemars/l-appel-de-la-foret/","noteIcon":"","created":"2024-05-29T11:28:20.794+02:00"}
 ---
 
 
