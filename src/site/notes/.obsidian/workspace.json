@@ -181,6 +181,16 @@
             "state": {
               "type": "DICE_ROLLER_VIEW",
               "state": {},
+              "icon": "lucide-file",
+              "title": "Le module complémentaire n'est plus actif."
+            }
+          },
+          {
+            "id": "4024e5473fea6146",
+            "type": "leaf",
+            "state": {
+              "type": "DICE_ROLLER_VIEW",
+              "state": {},
               "icon": "dices",
               "title": "Dice Tray"
             }
