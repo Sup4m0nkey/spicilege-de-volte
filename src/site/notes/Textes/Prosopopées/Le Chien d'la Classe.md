@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/textes/prosopopees/LeChienDlaClasse/"}
+{"dg-publish":true,"permalink":"/textes/prosopopees/le-chien-d-la-classe/","noteIcon":"","created":"2025-06-17T20:17:16.205+02:00","updated":"2025-06-17T20:17:16.205+02:00"}
 ---
+
 
 J'm'intitule :
 Romuald-Esteban

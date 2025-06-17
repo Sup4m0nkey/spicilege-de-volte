@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/textes/chants-et-versets/rencontre/","created":"2024-12-16T13:46:39.148+01:00","updated":"2024-05-25T08:30:32.483+02:00"}
+{"dg-publish":true,"permalink":"/textes/chants-et-versets/rencontre/","noteIcon":"","created":"2025-06-17T02:49:05.069+02:00","updated":"2025-06-17T02:49:05.069+02:00"}
 ---
+
 
 
 C'est au crépuscule, autour du lac blanc,
