@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/textes/contes-et-cauchemars/fragments/snoixelfer/","created":"2024-05-25T20:56:29.786+02:00","updated":"2024-05-25T08:30:41.713+02:00"}
+{"dg-publish":true,"permalink":"/Textes/Contes et Cauchemars/Fragments/Snoixelfér/","created":"2025-06-17T08:46:56.104+02:00","updated":"2025-06-17T08:46:56.104+02:00"}
 ---
+
 
 
 

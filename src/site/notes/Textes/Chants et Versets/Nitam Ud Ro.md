@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/textes/chants-et-versets/nitam-ud-ro/","created":"2024-05-25T20:56:29.745+02:00","updated":"2024-05-25T08:30:26.859+02:00"}
+{"dg-publish":true,"permalink":"/Textes/Chants et Versets/Nitam Ud Ro/","created":"2025-06-17T08:46:56.099+02:00","updated":"2025-06-17T08:46:56.099+02:00"}
 ---
+
 
 
 Parfois je t’imagine assise auprès de moi  

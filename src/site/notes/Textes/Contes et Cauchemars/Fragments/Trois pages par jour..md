@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/textes/contes-et-cauchemars/fragments/trois-pages-par-jour/","created":"2024-05-25T20:56:29.787+02:00","updated":"2024-05-25T14:46:06.737+02:00"}
+{"dg-publish":true,"permalink":"/Textes/Contes et Cauchemars/Fragments/Trois pages par jour./","created":"2025-06-17T08:46:56.104+02:00","updated":"2025-06-17T08:46:56.104+02:00"}
 ---
+
 
 
 Je passe ma langue nerveusement, machinalement, sur ma lèvre supérieure. Salé. Cuivré. J’essuie mon nez gouttant d’un revers de manche distrait. Ma tête bourdonne, résonne. Ma vue, trouble, s’éclaircit peu à peu alors que mon ouïe capte, distants, les sons de la rue et des docs, puis, plus proches, les invectives de l’homme derrière moi.

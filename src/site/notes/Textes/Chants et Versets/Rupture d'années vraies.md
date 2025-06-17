@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/textes/chants-et-versets/rupture-d-annees-vraies/","created":"2024-05-25T20:56:29.750+02:00","updated":"2024-05-25T08:30:37.466+02:00"}
+{"dg-publish":true,"permalink":"/Textes/Chants et Versets/Rupture d'années vraies/","created":"2025-06-17T08:46:56.100+02:00","updated":"2025-06-17T08:46:56.100+02:00"}
 ---
+
 
 
 Est-ce de l'eau, est-ce du sang ?

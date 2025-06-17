@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/textes/prosopopees/le-sang-dans-le-creuset/","created":"2024-05-26T02:51:59.971+02:00","updated":"2024-05-26T05:04:39.488+02:00"}
+{"dg-publish":true,"permalink":"/Textes/Prosopopées/Le Sang dans le Creuset/","created":"2025-06-17T08:46:56.109+02:00","updated":"2025-06-17T08:46:56.109+02:00"}
 ---
+
 
 
 Le lourd secret que partagent les cartésiens de l'Occulte ne se crie pas en chœur ; il s'exprime dans le sang et les pleurs. Seul celui qui écoute et entend — au cœur du vacarme écrasant des échecs cuisants, des cahots constants et des échos en résultant — le hurlement silencieux que sont les larmes de l'âme, qui s'écoulent par vagues successives, s'engouffrant dans l'abîme aux couleurs calmes... Discrètement meurtri par l'horreur d'être incarné dans une coquille solitaire, sale et collante, suintante, assailli de spasmes, tressaillant par soubresauts, parcouru de frissons, en une houle inexorable qui dépose, par cycles incessants, une écume poisseuse d'humeurs odorantes et exsudant des miasmes exécrables.

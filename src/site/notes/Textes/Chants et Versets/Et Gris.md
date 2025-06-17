@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/textes/chants-et-versets/et-gris/","created":"2024-05-25T20:56:29.741+02:00","updated":"2024-05-25T08:29:34.821+02:00"}
+{"dg-publish":true,"permalink":"/Textes/Chants et Versets/Et Gris/","created":"2025-06-17T08:46:56.098+02:00","updated":"2025-06-17T08:46:56.098+02:00"}
 ---
+
 
 
 Allongé sur le lit, les yeux sur le plafond,

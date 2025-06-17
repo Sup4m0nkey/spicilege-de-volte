@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/textes/contes-et-cauchemars/euqixerona/","created":"2024-05-25T20:56:29.768+02:00","updated":"2024-05-25T14:44:12.235+02:00"}
+{"dg-publish":true,"permalink":"/Textes/Contes et Cauchemars/Euqixerona/","created":"2025-06-17T08:46:56.102+02:00","updated":"2025-06-17T08:46:56.102+02:00"}
 ---
+
 
 
 Tout à commencé par une fin. C'est pas simple à expliquer, j'peux pas vous décrire exactement le pourquoi, ou le comment; c'est une suite d'évènements, des causes et des conséquences, mais j'vais essayer.
