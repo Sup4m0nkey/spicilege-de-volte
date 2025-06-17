@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/textes/chants-et-versets/salle-d-attente-sans-detente/","created":"2024-05-25T20:56:29.752+02:00","updated":"2024-05-25T07:39:11.183+02:00"}
+{"dg-publish":true,"permalink":"/textes/chants-et-versets/salle-d-attente-sans-detente/","created":"2024-12-16T13:46:39.175+01:00","updated":"2024-05-25T07:39:11.183+02:00"}
 ---
 
 

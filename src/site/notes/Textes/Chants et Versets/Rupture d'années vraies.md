@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/textes/chants-et-versets/rupture-d-annees-vraies/","created":"2024-05-25T20:56:29.750+02:00","updated":"2024-05-25T08:30:37.466+02:00"}
+{"dg-publish":true,"permalink":"/textes/chants-et-versets/rupture-d-annees-vraies/","created":"2024-12-16T13:46:39.163+01:00","updated":"2024-05-25T08:30:37.466+02:00"}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/metasophia/arts/","created":"2024-04-08T12:06:16.319+02:00","updated":"2024-04-08T16:44:23.747+02:00"}
+{"dg-publish":true,"permalink":"/metasophia/arts/","created":"2024-12-05T22:43:45.169+01:00","updated":"2024-05-26T05:40:17.560+02:00"}
 ---
 
 

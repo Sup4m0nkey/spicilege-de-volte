@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/textes/contes-et-cauchemars/fragments/flicker/","created":"2024-05-26T04:59:05.910+02:00","updated":"2024-05-26T05:02:16.496+02:00"}
+{"dg-publish":true,"permalink":"/textes/contes-et-cauchemars/fragments/flicker/","created":"2024-12-16T13:46:39.306+01:00","updated":"2024-05-26T05:02:16.496+02:00"}
 ---
 
 

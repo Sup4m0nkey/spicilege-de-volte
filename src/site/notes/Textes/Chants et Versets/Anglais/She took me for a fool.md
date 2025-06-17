@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/textes/chants-et-versets/anglais/she-took-me-for-a-fool/","created":"2024-05-25T20:56:29.758+02:00","updated":"2024-05-25T08:16:00.849+02:00"}
+{"dg-publish":true,"permalink":"/textes/chants-et-versets/anglais/she-took-me-for-a-fool/","created":"2024-12-16T13:46:38.980+01:00","updated":"2024-05-25T08:16:00.849+02:00"}
 ---
 
 

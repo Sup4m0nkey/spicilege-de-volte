@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/textes/contes-et-cauchemars/fragments/yticthgin-fo-tirips-eht/","created":"2024-05-25T20:56:29.789+02:00","updated":"2024-05-25T08:31:27.710+02:00"}
+{"dg-publish":true,"permalink":"/textes/contes-et-cauchemars/fragments/yticthgin-fo-tirips-eht/","created":"2024-12-16T13:46:39.473+01:00","updated":"2024-05-25T08:31:27.710+02:00"}
 ---
 
 

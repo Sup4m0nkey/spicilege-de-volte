@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/oeuvres-majeures/","created":"2024-04-08T12:06:16.603+02:00","updated":"2024-05-05T19:21:24.670+02:00"}
+{"dg-publish":true,"permalink":"/oeuvres-majeures/","created":"2024-12-05T22:43:41.789+01:00","updated":"2024-12-16T14:21:44.046+01:00"}
 ---
+
 
 #Arts #Penser #Projets #EnCours 
 #### Pentalogie Psychonaute
@@ -61,20 +62,23 @@ Matrix
 - Eternal Sunshine of the Spotless Mind
 Cut
 A Scanner Darkly
-Numero 9
+Hook
+~~Le Seigneur des Anneaux (Trilogie) & Le Hobbit (Dyptique)~~  
+Cut
 
 #### Séries
 #Série
 - Dispatches from Elsewhere
 Battlestar Galactica
 Firefly & The Expanse
-The Good Place
+- The Good Place
 The Haunting of Hill House
 Utopia
 The OA
 Maniac
 Sense8
 How I met your mother
+Sherlock
 Cowboy Bebop
 Fullmetal Alchemists Shambala
 Dirk Gently 
@@ -88,7 +92,6 @@ Michel Fugain - Une belle histoire
 #### Théâtre
 
 - The Man from Earth
-- Que ma Joie Demeure #Brozer 
 
 #### Conseillés
 
@@ -96,16 +99,22 @@ Michel Fugain - Une belle histoire
 
 - Docteur Arthus #Théocodore
 - Flying Lotus #Maëlstrom
+- Axel Bower - Éteins la Lumière
+- Poet of the Fall - Sleep
+- Ibaraki (Metal)
+- Landmurks (Metal)
+- Weekend palace (metal)
 
 ##### Films
 
 - #Janjan Jean Philippe Smidt (Luccini, Uchronie)
 - #Janjan Yesterday (Uchronie)
 - A Ghost Story
+- Moon Garden (onirique)
 
 ##### Séries
 
-- 
+- Miracle Workers (Buscemi, Radcliffe)
 
 ##### Livres
 

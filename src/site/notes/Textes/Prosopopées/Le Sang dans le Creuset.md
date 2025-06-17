@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/textes/prosopopees/le-sang-dans-le-creuset/","created":"2024-05-26T02:51:59.971+02:00","updated":"2024-05-26T05:04:39.488+02:00"}
+{"dg-publish":true,"permalink":"/textes/prosopopees/le-sang-dans-le-creuset/","created":"2024-12-16T13:46:39.638+01:00","updated":"2024-05-26T05:04:39.488+02:00"}
 ---
 
 
