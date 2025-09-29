@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/grafictions-et-racontoires/prosopopees/chaleur-chagrine/","noteIcon":"","created":"2025-06-17T20:17:16.204+02:00"}
+{"dg-publish":true,"permalink":"/grafictions-et-racontoires/prosopopees/chaleur-chagrine/","noteIcon":"","created":"2025-07-14T22:06:59.453+02:00"}
 ---
 
 

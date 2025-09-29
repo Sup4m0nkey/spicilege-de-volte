@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sapiosophie/babel-et-l-abime/mots-d-esprit/","noteIcon":"","created":"2025-06-17T02:49:04.942+02:00"}
+{"dg-publish":true,"permalink":"/sapiosophie/babel-et-l-abime/mots-d-esprit/","noteIcon":"","created":"2025-07-14T22:06:59.868+02:00"}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/grafictions-et-racontoires/chants-et-versets/salle-d-attente-sans-detente/","noteIcon":"","created":"2025-06-17T02:49:05.083+02:00"}
+{"dg-publish":true,"permalink":"/grafictions-et-racontoires/chants-et-versets/salle-d-attente-sans-detente/","noteIcon":"","created":"2025-07-14T22:06:57.357+02:00"}
 ---
 
 

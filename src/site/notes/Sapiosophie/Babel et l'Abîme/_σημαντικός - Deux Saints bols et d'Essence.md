@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sapiosophie/babel-et-l-abime/simantikos-deux-saints-bols-et-d-essence/","hide":true,"noteIcon":"","created":"2025-06-17T02:49:04.941+02:00"}
+{"dg-publish":true,"permalink":"/sapiosophie/babel-et-l-abime/simantikos-deux-saints-bols-et-d-essence/","hide":true,"noteIcon":"","created":"2025-07-14T22:06:59.960+02:00"}
 ---
 
 #Sémantique 

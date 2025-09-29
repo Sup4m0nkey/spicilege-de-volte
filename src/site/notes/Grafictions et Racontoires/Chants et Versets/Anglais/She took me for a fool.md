@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/grafictions-et-racontoires/chants-et-versets/anglais/she-took-me-for-a-fool/","noteIcon":"","created":"2025-06-17T02:49:04.980+02:00"}
+{"dg-publish":true,"permalink":"/grafictions-et-racontoires/chants-et-versets/anglais/she-took-me-for-a-fool/","noteIcon":"","created":"2025-07-14T22:06:56.675+02:00"}
 ---
 
 

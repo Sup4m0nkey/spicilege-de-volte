@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/grafictions-et-racontoires/prosopopees/amour-arrache-par-tortures-hivernales/","noteIcon":"","created":"2025-06-17T20:17:16.203+02:00"}
+{"dg-publish":true,"permalink":"/grafictions-et-racontoires/prosopopees/amour-arrache-par-tortures-hivernales/","noteIcon":"","created":"2025-07-14T22:06:59.359+02:00"}
 ---
 
 Tu sais, parfois, j'voudrai tout oublier.

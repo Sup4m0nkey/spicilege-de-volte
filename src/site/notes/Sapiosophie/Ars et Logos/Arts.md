@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sapiosophie/ars-et-logos/arts/","noteIcon":"","created":"2025-06-17T02:49:04.922+02:00"}
+{"dg-publish":true,"permalink":"/sapiosophie/ars-et-logos/arts/","noteIcon":"","created":"2025-07-14T22:06:59.459+02:00"}
 ---
 
 

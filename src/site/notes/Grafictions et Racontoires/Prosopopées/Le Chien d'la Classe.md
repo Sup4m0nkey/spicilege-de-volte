@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/grafictions-et-racontoires/prosopopees/le-chien-d-la-classe/","noteIcon":"","created":"2025-06-17T20:17:16.205+02:00"}
+{"dg-publish":true,"permalink":"/grafictions-et-racontoires/prosopopees/le-chien-d-la-classe/","noteIcon":"","created":"2025-07-14T22:06:59.454+02:00"}
 ---
 
 
