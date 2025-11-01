@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/grafictions-et-racontoires/contes-et-cauchemars/fragments/yticthgin-fo-tirips-eht/","noteIcon":"","created":"2025-07-14T22:06:58.817+02:00"}
+{"dg-publish":true,"permalink":"/grafictions-et-racontoires/contes-et-cauchemars/fragments/yticthgin-fo-tirips-eht/","noteIcon":"","created":"2025-07-14T22:06:58.817+02:00","updated":"2025-07-14T22:06:58.817+02:00"}
 ---
 
 

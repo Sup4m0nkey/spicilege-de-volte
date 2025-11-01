@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/grafictions-et-racontoires/chants-et-versets/calud-drobua/","noteIcon":"","created":"2025-07-14T22:06:56.758+02:00"}
+{"dg-publish":true,"permalink":"/grafictions-et-racontoires/chants-et-versets/calud-drobua/","noteIcon":"","created":"2025-07-14T22:06:56.758+02:00","updated":"2025-07-14T22:06:56.799+02:00"}
 ---
 
 

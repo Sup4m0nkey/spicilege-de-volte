@@ -1,11 +1,26 @@
 ---
-{"dg-publish":true,"permalink":"/sapiosophie/ars-et-logos/arts/","noteIcon":"","created":"2025-07-14T22:06:59.459+02:00"}
+{"dg-publish":true,"permalink":"/sapiosophie/ars-et-logos/arts/","noteIcon":"","created":"2025-07-14T22:06:59.459+02:00","updated":"2025-11-01T18:57:38.023+01:00"}
 ---
 
 
 
 **Art :**
-Une Œuvre d'Art est le résultat volontaire et conscientisé comme tel d'un acte de création, impliquant une certaine Technê, une recherche Esthétique, et dont le but recherché est de provoquer une émotion ou de faire passer un message.
+
+Discipline ? Activité ? Procédé ? Méthode, Technique, Codifié
+Façonner, Modeler, Personnaliser
+Intime exposé = imposé #Monthoux
+Mettre au monde
+Faire advenir
+Composition / Invention / Désir créateur
+Conscientisé, Volontaire, Défini
+**Inutile**, **l'art pour l'art**, **créer comme fin en soi**
+Provoquer, évoquer, convoquer, invoquer ►sentiment, prédéterminé, émotion ?
+Esthétique ► au sens Grec : "par les sensations"
+Moyen expression ► impression, oppression
+Expérimentation, Novateur =/= reproduire n'est pas de l'art !
+Science
+Recherche
+~~Une Œuvre d'Art est le résultat volontaire et conscientisé comme tel d'un acte de composition se voulant créatrice, impliquant une certaine Technê, une recherche Esthétique, ayant pour objectif de provoquer une émotion ou de faire passer un message.~~
 
 **Art Majeur :**
 Un Art est dit Majeur s'il n'a d'autre but ni utilité qu'être Artistique (c'est là sa qualité majeure).
@@ -30,6 +45,17 @@ Technê dont la réalisation pourrait être artistique, mais qui n'en a pas les 
 10e art : Arts interactifs et numériques
 11e art : ~~Arts culinaires~~ *► Ceci est un Art Mineur !*
 12e art : Parfumerie
+
+(Manquent à la Tradition !)
+Massage
+Art Martial Sportif / Lutte
+Manège à sensations
+Sexe
+Diagogie
+Confiserie
+Œnologie
+Costumes ? (Carnaval)
+Maquillage
 ### Muses
 
 Calliope	Καλλιόπη / [[Kalliópê\|Kalliópê]], « qui a une belle voix » ►	poésie épique

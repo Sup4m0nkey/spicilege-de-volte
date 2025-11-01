@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/grafictions-et-racontoires/chants-et-versets/gnidne-etanretla/","noteIcon":"","created":"2025-07-14T22:06:57.016+02:00"}
+{"dg-publish":true,"permalink":"/grafictions-et-racontoires/chants-et-versets/gnidne-etanretla/","noteIcon":"","created":"2025-07-14T22:06:57.016+02:00","updated":"2025-07-14T22:06:57.017+02:00"}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sapiosophie/babel-et-l-abime/mots-d-esprit/","noteIcon":"","created":"2025-07-14T22:06:59.868+02:00"}
+{"dg-publish":true,"permalink":"/sapiosophie/babel-et-l-abime/mots-d-esprit/","noteIcon":"","created":"2025-07-14T22:06:59.868+02:00","updated":"2025-11-01T19:08:57.496+01:00"}
 ---
 
 
@@ -95,15 +95,15 @@ K.A.R.L : Karl Angie Romu Laura
 ### Formules de Magiciens
 
 Ce chanceux d'Heptible, qui se fait sucer par tout le monde, avec son pote Spission ! #Jeanjean 2023
-C'est la rareté qui fait l'exception. #Pierrefond 2024.03
-Il est rentré dans ma tête avec un caillou ! #Poulette 2024.03
+C'est la rareté qui fait l'exception. #Hakun 2024.03
+Il est rentré dans ma tête avec un caillou ! #CykaPoulette 2024.03
 160 BPM, c'est un peu mou...! #Trinstitude 2024.04
-J'ai l'impression d'avoir un humain dans l'oeil... #Poulette 2024.04
+J'ai l'impression d'avoir un humain dans l'oeil... #CykaPoulette 2024.04
 Ah, c'est ça le Syndrome de l'Encéphalogramme Plat ! #Ritonite 2024.04
 Être interpellé pour tes actes, c'est un cadeau. #Théocodore 2024.04
 L'esclavage, c'est créatif ! #Brozer 2024.04
 
-### Dictons d'idiots / Bon sens de prolo
+### Dictons de Déni / Bon Sens d'Esclave
 
 Y'a pas de sot métier
 Ça coûte cher un château

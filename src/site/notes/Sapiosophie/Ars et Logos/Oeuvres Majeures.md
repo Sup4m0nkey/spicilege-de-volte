@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sapiosophie/ars-et-logos/oeuvres-majeures/","noteIcon":"","created":"2025-07-14T22:06:59.643+02:00"}
+{"dg-publish":true,"permalink":"/sapiosophie/ars-et-logos/oeuvres-majeures/","noteIcon":"","created":"2025-07-14T22:06:59.643+02:00","updated":"2025-11-01T19:07:14.755+01:00"}
 ---
 
 
@@ -11,44 +11,37 @@
 3) Cloud Atlas
 4) Enter The Void
 5) L'Éducation de Fredrick Fitzell
-
 ##### Mention Honorables
 - Donnie Darko
 - Midsommar
 - Jacob's Ladder
 - La Planète Sauvage
 
-#### Films Préférés
+#### Films Cultes
 #Film
 - RRR
 - The Crow
 - Inception
 - Dune (Villeneuve)
 Moon
-Mr Right
-Fight Club
+- Mr Right
+- Fight Club
 Mysterious Skin
 Big Fish
 Le Dernier Samouraï
 - Un Monde Meilleur
 eXistenZ
-Dorian Gray
-- L'Éducation de Fredrick Fitzell
-- Everything, Everywhere, All at Once
-- Mr Nobody
-Cloud Atlas
-- Donnie Darko
+- Dorian Gray
+- Cloud Atlas
 Blade Runner (2049)
 Mad Max - Fury Road
 Bienvenue à Gattaca
 Zombieland
 L'Histoire sans fin
-- L'Échelle de Jacob
-- Midsommar
 - Trilogie des Cornetto + Paul
 Les Fils de l'Homme
 Annihilation
-Dogma
+- Dogma
 Only Lovers Left Alive
 Time Out
 - Stardust
@@ -58,27 +51,31 @@ Vol au dessus d'un nid de coucou
 Whiplash
 - Sucker Punch
 Coraline
-Matrix
+- Matrix
 - Eternal Sunshine of the Spotless Mind
 Cut
 A Scanner Darkly
 Numero 9
+Brisby et le secret de NIMH
+Brendan et le secret de Kells
+
 
 #### Séries
 #Série
 - Dispatches from Elsewhere
 Battlestar Galactica
-Firefly & The Expanse
-The Good Place
+Firefly
+The Expanse
+- The Good Place
 The Haunting of Hill House
 Utopia
 The OA
 Maniac
-Sense8
+- Sense8
 How I met your mother
-Cowboy Bebop
+- Cowboy Bebop
 Fullmetal Alchemists Shambala
-Dirk Gently 
+- Dirk Gently 
 
 #### Musiques Françaises
 
@@ -103,6 +100,7 @@ Michel Fugain - Une belle histoire
 - #Janjan Jean Philippe Smidt (Luccini, Uchronie)
 - #Janjan Yesterday (Uchronie)
 - A Ghost Story
+- #CykaPoulette Sirāt
 
 ##### Séries
 

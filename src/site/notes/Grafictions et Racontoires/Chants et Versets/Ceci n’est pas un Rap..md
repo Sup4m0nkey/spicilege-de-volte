@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/grafictions-et-racontoires/chants-et-versets/ceci-n-est-pas-un-rap/","noteIcon":"","created":"2025-07-14T22:06:56.841+02:00"}
+{"dg-publish":true,"permalink":"/grafictions-et-racontoires/chants-et-versets/ceci-n-est-pas-un-rap/","noteIcon":"","created":"2025-07-14T22:06:56.841+02:00","updated":"2025-07-14T22:06:56.841+02:00"}
 ---
 
 

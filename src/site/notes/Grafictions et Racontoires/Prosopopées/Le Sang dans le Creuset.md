@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/grafictions-et-racontoires/prosopopees/le-sang-dans-le-creuset/","noteIcon":"","created":"2025-07-14T22:06:59.455+02:00"}
+{"dg-publish":true,"permalink":"/grafictions-et-racontoires/prosopopees/le-sang-dans-le-creuset/","noteIcon":"","created":"2025-07-14T22:06:59.455+02:00","updated":"2025-07-14T22:06:59.455+02:00"}
 ---
 
 

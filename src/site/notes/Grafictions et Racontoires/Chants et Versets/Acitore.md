@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/grafictions-et-racontoires/chants-et-versets/acitore/","noteIcon":"","created":"2025-07-14T22:06:56.566+02:00"}
+{"dg-publish":true,"permalink":"/grafictions-et-racontoires/chants-et-versets/acitore/","noteIcon":"","created":"2025-07-14T22:06:56.566+02:00","updated":"2025-07-14T22:06:56.567+02:00"}
 ---
 
 

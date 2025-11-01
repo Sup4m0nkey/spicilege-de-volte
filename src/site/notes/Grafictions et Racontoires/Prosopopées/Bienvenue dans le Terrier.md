@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/grafictions-et-racontoires/prosopopees/bienvenue-dans-le-terrier/","noteIcon":"","created":"2025-07-14T22:06:59.394+02:00"}
+{"dg-publish":true,"permalink":"/grafictions-et-racontoires/prosopopees/bienvenue-dans-le-terrier/","noteIcon":"","created":"2025-07-14T22:06:59.394+02:00","updated":"2025-07-14T22:06:59.394+02:00"}
 ---
 
 

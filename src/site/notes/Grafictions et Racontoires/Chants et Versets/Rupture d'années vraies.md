@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/grafictions-et-racontoires/chants-et-versets/rupture-d-annees-vraies/","noteIcon":"","created":"2025-07-14T22:06:57.258+02:00"}
+{"dg-publish":true,"permalink":"/grafictions-et-racontoires/chants-et-versets/rupture-d-annees-vraies/","noteIcon":"","created":"2025-07-14T22:06:57.258+02:00","updated":"2025-07-14T22:06:57.258+02:00"}
 ---
 
 

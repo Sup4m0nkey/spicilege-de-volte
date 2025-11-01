@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/grafictions-et-racontoires/chants-et-versets/baudelaire-la-musique/","noteIcon":"","created":"2025-07-14T22:06:56.718+02:00"}
+{"dg-publish":true,"permalink":"/grafictions-et-racontoires/chants-et-versets/baudelaire-la-musique/","noteIcon":"","created":"2025-07-14T22:06:56.718+02:00","updated":"2025-07-14T22:06:56.718+02:00"}
 ---
 
 
