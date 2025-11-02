@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/grafictions-et-racontoires/chants-et-versets/le-ketos-et-le-renarsotek/","noteIcon":"","created":"2025-07-14T22:06:57.099+02:00","updated":"2025-07-14T22:06:57.099+02:00"}
+{"dg-publish":true,"permalink":"/Grafictions et Racontoires/Chants et Versets/Le Kétos et le Renarsotek/","noteIcon":"","updated":"2025-07-14T22:06:57.099+02:00"}
 ---
 
 

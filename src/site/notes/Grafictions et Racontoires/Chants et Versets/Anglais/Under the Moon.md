@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/grafictions-et-racontoires/chants-et-versets/anglais/under-the-moon/","noteIcon":"","created":"2025-07-14T22:06:56.716+02:00","updated":"2025-07-14T22:06:56.716+02:00"}
+{"dg-publish":true,"permalink":"/Grafictions et Racontoires/Chants et Versets/Anglais/Under the Moon/","noteIcon":"","updated":"2025-07-14T22:06:56.716+02:00"}
 ---
 
 

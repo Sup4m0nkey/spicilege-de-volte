@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sapiosophie/ars-et-logos/valeurs/","noteIcon":"","created":"2025-07-14T22:06:59.685+02:00","updated":"2025-07-14T22:06:59.685+02:00"}
+{"dg-publish":true,"permalink":"/Sapiosophie/Ars et Logos/Valeurs/","noteIcon":"","updated":"2025-07-14T22:06:59.685+02:00"}
 ---
 
 

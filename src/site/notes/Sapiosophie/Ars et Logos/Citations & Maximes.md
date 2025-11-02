@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sapiosophie/ars-et-logos/citations-and-maximes/","noteIcon":"","created":"2025-07-14T22:06:59.603+02:00","updated":"2025-11-01T19:06:20.568+01:00"}
+{"dg-publish":true,"permalink":"/Sapiosophie/Ars et Logos/Citations & Maximes/","noteIcon":"","updated":"2025-11-01T19:06:20.568+01:00"}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/grafictions-et-racontoires/contes-et-cauchemars/xuey-sem-tnaved/","noteIcon":"","created":"2025-07-14T22:06:59.251+02:00","updated":"2025-07-14T22:06:59.251+02:00"}
+{"dg-publish":true,"permalink":"/Grafictions et Racontoires/Contes et Cauchemars/Xuey Sem Tnaved/","noteIcon":"","updated":"2025-07-14T22:06:59.251+02:00"}
 ---
 
 

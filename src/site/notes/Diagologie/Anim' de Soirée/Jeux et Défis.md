@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/diagologie/anim-de-soiree/jeux-et-defis/","noteIcon":"","created":"2025-07-14T22:06:49.507+02:00","updated":"2025-07-16T20:42:00.098+02:00"}
+{"dg-publish":true,"permalink":"/Diagologie/Anim' de Soirée/Jeux et Défis/","noteIcon":"","updated":"2025-07-16T20:42:00.098+02:00"}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sapiosophie/thanateros-et-khaos/qabbalah-and-symbonomies/","noteIcon":"","created":"2025-07-14T22:07:05.078+02:00","updated":"2025-11-01T17:31:45.390+01:00"}
+{"dg-publish":true,"permalink":"/Sapiosophie/Thanatéros et Khaos/Qabbalah & Symbonomies/","noteIcon":"","updated":"2025-11-01T17:31:45.390+01:00"}
 ---
 
 

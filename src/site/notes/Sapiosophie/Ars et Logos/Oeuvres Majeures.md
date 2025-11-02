@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sapiosophie/ars-et-logos/oeuvres-majeures/","noteIcon":"","created":"2025-07-14T22:06:59.643+02:00","updated":"2025-11-01T19:07:14.755+01:00"}
+{"dg-publish":true,"permalink":"/Sapiosophie/Ars et Logos/Oeuvres Majeures/","noteIcon":"","updated":"2025-11-01T19:07:14.755+01:00"}
 ---
 
 

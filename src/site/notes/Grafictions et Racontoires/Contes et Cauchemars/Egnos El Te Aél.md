@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/grafictions-et-racontoires/contes-et-cauchemars/egnos-el-te-ael/","noteIcon":"","created":"2025-07-14T22:06:57.483+02:00","updated":"2025-07-14T22:06:57.483+02:00"}
+{"dg-publish":true,"permalink":"/Grafictions et Racontoires/Contes et Cauchemars/Egnos El Te Aél/","noteIcon":"","updated":"2025-07-14T22:06:57.483+02:00"}
 ---
 
 

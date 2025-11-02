@@ -1,15 +1,19 @@
 ---
-{"dg-publish":true,"permalink":"/sapiosophie/babel-et-l-abime/simantikos-deux-saints-bols-et-d-essence/","hide":true,"noteIcon":"","created":"2025-07-14T22:06:59.960+02:00","updated":"2025-11-01T18:37:43.720+01:00"}
+{"dg-publish":true,"permalink":"/Sapiosophie/Babel et l'Abîme/• σημαντικός - Deux Saints bols et d'Essence/","hide":true,"noteIcon":"","updated":"2025-11-02T03:53:23.039+01:00"}
 ---
 
 #Sémantique 
 
 Alt+7 = • (Ordre Alphabétique)
+
 Alt+145 = æ
 Alt+146 = Æ
 Alt+0156 = œ
 Alt+0140 = Œ
+
 Alt+0254 = þ (Thurisaz, termine l'Ordre Alphabétique)
+
+Alt+0172 = ¬ (Négation ; =/=)
 ### Magick
 
 - Occultisme / ? / Occulte

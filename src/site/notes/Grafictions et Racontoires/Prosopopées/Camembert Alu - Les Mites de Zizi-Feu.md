@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/grafictions-et-racontoires/prosopopees/camembert-alu-les-mites-de-zizi-feu/","noteIcon":"","created":"2025-07-14T22:06:59.451+02:00","updated":"2025-07-14T22:06:59.451+02:00"}
+{"dg-publish":true,"permalink":"/Grafictions et Racontoires/Prosopopées/Camembert Alu - Les Mites de Zizi-Feu/","noteIcon":"","updated":"2025-07-14T22:06:59.451+02:00"}
 ---
 
 

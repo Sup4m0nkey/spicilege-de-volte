@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/grafictions-et-racontoires/chants-et-versets/derniere-complainte/","noteIcon":"","created":"2025-07-14T22:06:56.949+02:00","updated":"2025-07-14T22:06:56.949+02:00"}
+{"dg-publish":true,"permalink":"/Grafictions et Racontoires/Chants et Versets/Dernière Complainte/","noteIcon":"","updated":"2025-07-14T22:06:56.949+02:00"}
 ---
 
 
