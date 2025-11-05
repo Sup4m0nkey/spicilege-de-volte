@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Archives_Impersonnelles/Janjan/J'me Saoule/","hide":true,"noteIcon":"","updated":"2025-07-14T22:06:54.109+02:00"}
+{"dg-publish":true,"permalink":"/Archives_Impersonnelles/Janjan/J'me Saoule/","hide":true,"tags":["Janjan","Music","Arts","Poétique"],"noteIcon":"","updated":"2025-11-05T04:41:09.801+01:00"}
 ---
 
 

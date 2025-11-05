@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Grafictions et Racontoires/Prosopopées/L’Anarchiste qui votait F.N./","noteIcon":"","updated":"2025-07-14T22:06:59.457+02:00"}
+{"dg-publish":true,"permalink":"/Grafictions et Racontoires/Prosopopées/L’Anarchiste qui votait F.N./","noteIcon":"","updated":"2025-11-03T21:21:55.115+01:00"}
 ---
 
 9 mai 2019
