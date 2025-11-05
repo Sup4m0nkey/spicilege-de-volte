@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Sapiosophie/Babel et l'Abîme/• σημαντικός - Deux Saints bols et d'Essence/","hide":true,"noteIcon":"","updated":"2025-11-02T03:53:23.039+01:00"}
+{"dg-publish":true,"permalink":"/Sapiosophie/Babel et l'Abîme/• σημαντικός - Deux Saints bols et d'Essence/","hide":true,"noteIcon":"","updated":"2025-11-02T10:54:43.508+01:00"}
 ---
 
 #Sémantique 
@@ -142,8 +142,8 @@ Humeur
 Tempérament
 Émotion
 Sentiment
-etc
-{ #Sensation}
+Sensation
+Percepition / Proprioception / Endoception ? / Extraception ?
 
 
 Eidos / Zeitgeist / Noosphère / Égrégore
