@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/- Jounal de Contre -/103 - Anamnèse Romanesque/","hide":true,"noteIcon":"","updated":"2025-11-05T11:16:53.495+01:00"}
+{"dg-publish":true,"permalink":"/- Jounal de Contre -/103 - Anamnèse Romanesque/","hide":true,"tags":["Anamnèse","Vérités"],"noteIcon":"","updated":"2025-11-05T11:27:37.780+01:00"}
 ---
 
 
