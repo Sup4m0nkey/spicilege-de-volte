@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Sapiosophie/Babel et l'Abîme/Mots d'esprit/","noteIcon":"","updated":"2025-11-01T19:08:57.496+01:00"}
+{"dg-publish":true,"permalink":"/Sapiosophie/Babel et l'Abîme/Mots d'esprit/","noteIcon":"","updated":"2025-11-05T05:20:40.183+01:00"}
 ---
 
 
@@ -94,7 +94,7 @@ K.A.R.L : Karl Angie Romu Laura
 
 ### Formules de Magiciens
 
-Ce chanceux d'Heptible, qui se fait sucer par tout le monde, avec son pote Spission ! #Jeanjean 2023
+Ce chanceux d'Heptible, qui se fait sucer par tout le monde, avec son pote Spission ! #Janjan 2023
 C'est la rareté qui fait l'exception. #Hakun 2024.03
 Il est rentré dans ma tête avec un caillou ! #CykaPoulette 2024.03
 160 BPM, c'est un peu mou...! #Trinstitude 2024.04

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Diagologie/JdR/• JdR/","hide":true,"noteIcon":"","updated":"2025-11-05T04:51:32.340+01:00"}
+{"dg-publish":true,"permalink":"/Diagologie/JdR/• JdR/","hide":true,"noteIcon":"","updated":"2025-11-05T05:15:18.796+01:00"}
 ---
 
 
@@ -22,11 +22,11 @@ Two Summers
 
 ##### Plan de l'Hôpital
 
-![P13_Liste des pièces.jpg](/img/user/%C3%BE/Images/P13_Liste%20des%20pi%C3%A8ces.jpg)
+![P13_Liste des pièces.jpg](/img/user/Diagologie/JdR/P13_Liste%20des%20pi%C3%A8ces.jpg)
 
 ##### Personnages
 
-![Patients et N° de Chambre.png](/img/user/Diagologie/JdR/Patients%20et%20N%C2%B0%20de%20Chambre.png)
+![P13_Patients et N° de Chambre.png](/img/user/Diagologie/JdR/P13_Patients%20et%20N%C2%B0%20de%20Chambre.png)
 ##### Bruits de Couloir
 
 - Je suis ici depuis combien de temps ? Depuis le temps des malentendus, évidemment.
