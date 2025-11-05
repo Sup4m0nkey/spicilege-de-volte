@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Sapiosophie/Babel & l'Abîme/Valeurs/","noteIcon":"","updated":"2025-07-14T22:06:59.685+02:00"}
+{"dg-publish":true,"permalink":"/Sapiosophie/Babel & l'Abîme/Valeurs/","noteIcon":"","updated":"2025-11-05T06:44:03.998+01:00"}
 ---
 
 

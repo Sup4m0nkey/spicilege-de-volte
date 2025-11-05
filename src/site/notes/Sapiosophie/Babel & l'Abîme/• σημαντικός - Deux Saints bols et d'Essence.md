@@ -1,7 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/Sapiosophie/Babel & l'Abîme/• σημαντικός - Deux Saints bols et d'Essence/","hide":true,"tags":["Sémantique","Abîme","Anamnèse","Archiviste","Vérités","EnCours","Penser"],"noteIcon":"","updated":"2025-11-05T06:01:13.113+01:00"}
+{"dg-publish":true,"permalink":"/Sapiosophie/Babel & l'Abîme/• σημαντικός - Deux Saints bols et d'Essence/","hide":true,"tags":["Sémantique","Abîme","Anamnèse","Archiviste","Vérités","EnCours","Penser"],"noteIcon":"","updated":"2025-11-05T07:57:19.832+01:00"}
 ---
 
+
+### Symboles / Lettres
+Windows [Alt Codes](https://fr.wikipedia.org/wiki/Combinaisons_de_touche_Alt)
 
 Alt+7 = • (Ordre Alphabétique)
 
@@ -10,9 +13,12 @@ Alt+146 = Æ
 Alt+0156 = œ
 Alt+0140 = Œ
 
-Alt+0254 = þ (Thurisaz, termine l'Ordre Alphabétique)
+Alt+0222 = Þ (Thurisaz #Runes , termine l'Ordre Alphabétique)
+/!\ Techniquement, le [dernier caractère](https://en.wikipedia.org/wiki/Unicode) de l'ordre alphabétique Windows est Ω (U+03A9).
+Paramétrer raccourcis avec Powertoys ► Keyboard Manager ou [éditer le registre](https://en.wikipedia.org/wiki/Unicode_input#:~:text=edit%20source%5D-,Hexadecimal,-Unicode%20input%20can) ; sur OSEF-Sagittarius = [AltGr+Shift+A](https://upload.wikimedia.org/wikipedia/commons/4/49/Belgian_Linux_keyboard.svg)
 
 Alt+0172 = ¬ (Négation ; =/=)
+
 ### Magick
 
 - Occultisme / ? / Occulte
