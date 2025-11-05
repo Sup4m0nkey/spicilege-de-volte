@@ -1,10 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/Sapiosophie/Citations & Maximes/","noteIcon":"","updated":"2025-11-01T19:06:20.568+01:00"}
+{"dg-publish":true,"permalink":"/Sapiosophie/Citations & Maximes/","tags":["Philosophie","Anamnèse","Initiation"],"noteIcon":"","updated":"2025-11-05T06:02:00.894+01:00"}
 ---
 
 
 ### Locutions Latines
-#Philosophie 
 Obstat Viae Fit Via (Les obstacles deviennent le chemin)
 { #Dasein}
 
