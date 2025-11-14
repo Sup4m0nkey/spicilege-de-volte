@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Grafictions et Racontoires/Prosopopées/Année Garée, Âme de Pair dû/","tags":["Music","Abîme","Vérités","EnCours"],"noteIcon":"","updated":"2025-11-14T13:57:50.655+01:00"}
+{"dg-publish":true,"permalink":"/Grafictions et Racontoires/Prosopopées/Année Garée, Âme de Pair dû/","tags":["Music","Abîme","Vérités","EnCours"],"noteIcon":"","updated":"2025-11-14T13:58:11.135+01:00"}
 ---
 
 La nuit porte conseil
@@ -23,7 +23,7 @@ J'me suis pris pour un ch'val
 Chuis allé galoper dans l'caroussel
 Pis v'là la taule, j'me suis vautré, quel empoté
 À un ch'veu d'l'ecchymose
-Même pas foutu d'tenir un trop
+Même pas foutu d'tenir un trot
 Sans perdre l'équilibre
 Tu parles d'un équidé
 Plus pataud qu'un double poney
