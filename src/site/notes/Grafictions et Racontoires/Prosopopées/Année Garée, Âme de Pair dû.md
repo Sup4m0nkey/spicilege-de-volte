@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/Grafictions et Racontoires/Prosopopées/Année Garée, Âme de Pair dû/","tags":["Music","Abîme","Vérités","EnCours"],"noteIcon":"","updated":"2025-11-14T14:35:46.631+01:00"}
+{"dg-publish":true,"permalink":"/Grafictions et Racontoires/Prosopopées/Année Garée, Âme de Pair dû/","tags":["Music","Abîme","Vérités","EnCours"],"noteIcon":"","updated":"2025-11-14T14:37:20.334+01:00"}
 ---
 
 La nuit porte conseil
-C'est c'qu'on m'a dit
+Enfin, c'est c'qu'on m'a dit
 Mais vu qu'j'ai la cervelle
-En compote de fruits
+Qui coule comme une compote de fruits
 Ça risque pas d'm'aider
 À survivre toute la nuit.
 
@@ -15,6 +15,7 @@ Pour moi on est Samedi.
 
 Trop picolé, presque au coma
 J'ai pas vomi, suis propre sur moi
+Pourtant j'ai l'aigreur vissée aux viscères
 Y'a qu'la honte et l'angoisse qui m'glissent dessus
 J'les sens m'faire des trucs sales
 Comme si c'étaient des doigts
