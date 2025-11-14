@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Grafictions et Racontoires/Prosopopées/Année Garée, Âme de Pair dû/","tags":["Music","Abîme","Vérités","EnCours"],"noteIcon":"","updated":"2025-11-14T15:08:42.566+01:00"}
+{"dg-publish":true,"permalink":"/Grafictions et Racontoires/Prosopopées/Année Garée, Âme de Pair dû/","tags":["Music","Abîme","Vérités","EnCours"],"noteIcon":"","updated":"2025-11-14T15:11:13.630+01:00"}
 ---
 
 La nuit porte conseil
