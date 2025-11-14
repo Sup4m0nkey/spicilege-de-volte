@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/Grafictions et Racontoires/Contes et Cauchemars/L'Appel de la Forêt/","noteIcon":"","updated":"2025-07-14T22:06:58.921+02:00"}
+{"dg-publish":true,"permalink":"/Grafictions et Racontoires/Contes et Cauchemars/L'Appel de la Forêt/","noteIcon":"","updated":"2025-11-14T06:12:30.000+01:00"}
 ---
+
 
 
 Je cours. Sans fin, je cours. Pourtant, je ne sais pas pourquoi. Suis-je poursuivi ? Ou peut-être suis-je en chasse ? Je n'en sais rien, je sais juste que je cours. Les arbres défilent autour de moi, l'herbe chatouille mon torse. Mon torse ? Ah, oui, je suis à quatre pattes. Je cours, je sens mon souffle brûler mes poumons, ma gorge puis ma langue. Je sens ma salive dégouliner entre mes dents, et voler derrière moi, emportée par le vent de ma course effrénée. Les longues foulées s'accélèrent encore, si c'est possible. Je cours de plus en plus vite, je ne peux dire pourquoi. Je me sens simplement pressé par le temps.

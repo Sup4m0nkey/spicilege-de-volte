@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Diagologie/Anim' de Soirée/Énigmes/","hide":true,"tags":["Jeux","JdR","ARG"],"noteIcon":"","updated":"2025-11-05T04:49:45.999+01:00"}
+{"dg-publish":true,"permalink":"/Diagologie/Anim' de Soirée/Énigmes/","hide":true,"tags":["Jeux","JdR","ARG"],"noteIcon":"","updated":"2025-11-14T15:16:33.963+01:00"}
 ---
 
 

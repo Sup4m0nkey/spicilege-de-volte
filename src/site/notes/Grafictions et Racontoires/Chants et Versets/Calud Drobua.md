@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/Grafictions et Racontoires/Chants et Versets/Calud Drobua/","noteIcon":"","updated":"2025-07-14T22:06:56.799+02:00"}
+{"dg-publish":true,"permalink":"/Grafictions et Racontoires/Chants et Versets/Calud Drobua/","noteIcon":"","updated":"2025-11-14T06:12:30.000+01:00"}
 ---
+
 
 
 Séléné, au Levant, nous faisait ce cadeau :

@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/Sapiosophie/Babel & l'Abîme/Qabbalah & Symbonomies/","noteIcon":"","updated":"2025-11-01T17:31:45.390+01:00"}
+{"dg-publish":true,"permalink":"/Sapiosophie/Babel & l'Abîme/Qabbalah & Symbonomies/","noteIcon":"","updated":"2025-11-14T06:12:30.000+01:00"}
 ---
+
 
 
 

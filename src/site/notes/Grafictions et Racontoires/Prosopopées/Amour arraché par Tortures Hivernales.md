@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/Grafictions et Racontoires/Prosopopées/Amour arraché par Tortures Hivernales/","noteIcon":"","updated":"2025-07-14T22:06:59.359+02:00"}
+{"dg-publish":true,"permalink":"/Grafictions et Racontoires/Prosopopées/Amour arraché par Tortures Hivernales/","noteIcon":"","updated":"2025-11-14T06:12:30.000+01:00"}
 ---
+
 
 Tu sais, parfois, j'voudrai tout oublier.
 Nettoyer ma cervelle de nos souvenirs

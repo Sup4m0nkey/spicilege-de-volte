@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/Sapiosophie/Ars & Teknê/Arts/","noteIcon":"","updated":"2025-11-01T18:57:38.023+01:00"}
+{"dg-publish":true,"permalink":"/Sapiosophie/Ars & Teknê/Arts/","noteIcon":"","updated":"2025-11-14T06:12:30.000+01:00"}
 ---
+
 
 
 

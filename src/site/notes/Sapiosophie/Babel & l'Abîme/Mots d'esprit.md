@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/Sapiosophie/Babel & l'Abîme/Mots d'esprit/","noteIcon":"","updated":"2025-11-05T05:20:40.183+01:00"}
+{"dg-publish":true,"permalink":"/Sapiosophie/Babel & l'Abîme/Mots d'esprit/","noteIcon":"","updated":"2025-11-14T06:12:30.000+01:00"}
 ---
+
 
 
 La baignoire / La baie noire / L'abbé noir

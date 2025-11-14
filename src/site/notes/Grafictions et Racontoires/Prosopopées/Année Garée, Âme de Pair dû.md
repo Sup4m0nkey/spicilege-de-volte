@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/Grafictions et Racontoires/Prosopopées/Année Garée, Âme de Pair dû/","tags":["Music","Abîme","Vérités","EnCours"],"noteIcon":"","updated":"2025-11-14T15:11:13.630+01:00"}
+{"dg-publish":true,"permalink":"/Grafictions et Racontoires/Prosopopées/Année Garée, Âme de Pair dû/","tags":["Music","Abîme","Vérités","EnCours"],"noteIcon":"","updated":"2025-11-14T15:22:31.131+01:00"}
 ---
+
 
 La nuit porte conseil
 Enfin, c'est c'qu'on m'a dit
@@ -40,7 +41,7 @@ L'âne bâté, couillon que je suis
 Paumé, piteux, et pourtant qui s'pavane
 Égaré... mais pas perdu !
 
-Oyez zé regardez, en prime, 
+Oyez-et-regardez, en prime, 
 Comme j'me suis pas gêné
 J'me suis pris pour un ch'val
 Chuis allé galoper à poil dans l'caroussel !

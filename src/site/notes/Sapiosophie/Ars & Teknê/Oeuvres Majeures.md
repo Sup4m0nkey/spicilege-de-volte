@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/Sapiosophie/Ars & Teknê/Oeuvres Majeures/","noteIcon":"","updated":"2025-11-01T19:07:14.755+01:00"}
+{"dg-publish":true,"permalink":"/Sapiosophie/Ars & Teknê/Oeuvres Majeures/","noteIcon":"","updated":"2025-11-14T06:12:30.000+01:00"}
 ---
+
 
 
 #Arts #Penser #Projets #EnCours 

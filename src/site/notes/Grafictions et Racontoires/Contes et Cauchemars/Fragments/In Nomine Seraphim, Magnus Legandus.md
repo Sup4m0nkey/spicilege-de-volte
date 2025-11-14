@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/Grafictions et Racontoires/Contes et Cauchemars/Fragments/In Nomine Seraphim, Magnus Legandus/","tags":["JdR","Blagues","Personnages","Symbolisme"],"noteIcon":"","updated":"2025-11-14T03:40:35.416+01:00"}
+{"dg-publish":true,"permalink":"/Grafictions et Racontoires/Contes et Cauchemars/Fragments/In Nomine Seraphim, Magnus Legandus/","tags":["JdR","Blagues","Personnages","Symbolisme"],"noteIcon":"","updated":"2025-11-14T06:12:30.000+01:00"}
 ---
+
 
 Azetiel est l'Archange Majeur représentant la Foi Dogmatique, l'Adoration et le Zèle Aveugle.  
 Son nom veut dire "Exempt de Doute pour Dieu". Il est l'exemple, le modèle, le symbole et l'égide, de ce que Dieu exige de ses fidèles.  

@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/Sapiosophie/Ars & Teknê/Inventions/","hide":true,"tags":["Projets","Idées","Archiviste"],"noteIcon":"","updated":"2025-11-05T05:22:31.920+01:00"}
+{"dg-publish":true,"permalink":"/Sapiosophie/Ars & Teknê/Inventions/","tags":["Projets","Idées","Archiviste"],"noteIcon":"","updated":"2025-11-14T06:12:30.000+01:00"}
 ---
+
 
 
 DISCO NINJA

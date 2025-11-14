@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/Grafictions et Racontoires/Prosopopées/Le Chien d'la Classe/","noteIcon":"","updated":"2025-07-14T22:06:59.454+02:00"}
+{"dg-publish":true,"permalink":"/Grafictions et Racontoires/Prosopopées/Le Chien d'la Classe/","noteIcon":"","updated":"2025-11-14T06:12:30.000+01:00"}
 ---
+
 
 
 J'm'intitule :

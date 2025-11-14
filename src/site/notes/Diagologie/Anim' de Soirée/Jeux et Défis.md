@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Diagologie/Anim' de Soirée/Jeux et Défis/","tags":["Jeux","JdR","ARG"],"noteIcon":"","updated":"2025-11-05T04:50:04.609+01:00"}
+{"dg-publish":true,"permalink":"/Diagologie/Anim' de Soirée/Jeux et Défis/","tags":["Jeux","JdR","ARG"],"noteIcon":"","updated":"2025-11-14T15:16:33.962+01:00"}
 ---
 
 

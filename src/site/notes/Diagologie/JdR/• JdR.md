@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Diagologie/JdR/• JdR/","hide":true,"noteIcon":"","updated":"2025-11-05T08:16:21.349+01:00"}
+{"dg-publish":true,"permalink":"/Diagologie/JdR/• JdR/","hide":true,"noteIcon":"","updated":"2025-11-14T15:16:34.545+01:00"}
 ---
 
 
@@ -24,7 +24,7 @@ Two Summers
 
 ![P13_Liste des pièces.jpg](/img/user/Diagologie/JdR/P13_Liste%20des%20pi%C3%A8ces.jpg)
 
-##### Patients et leurs Chambres
+##### Personnages
 
 ![P13_Patients et N° de Chambre.png](/img/user/Diagologie/JdR/P13_Patients%20et%20N%C2%B0%20de%20Chambre.png)
 ##### Bruits de Couloir

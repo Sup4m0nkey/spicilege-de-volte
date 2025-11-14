@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/Grafictions et Racontoires/Contes et Cauchemars/Insomnia/","noteIcon":"","updated":"2025-07-14T22:06:58.859+02:00"}
+{"dg-publish":true,"permalink":"/Grafictions et Racontoires/Contes et Cauchemars/Insomnia/","noteIcon":"","updated":"2025-11-14T06:12:30.000+01:00"}
 ---
+
 
 
 Une fois de plus, le sommeil me fuit. Chaque fois que je ferme les yeux, son visage me hante, parfois souriant, comme autrefois, parfois en larmes, parfois, même, les yeux pleins de haine et d'une fureur incontrôlable... un futur horrible, improbable, et pourtant bouleversant.
