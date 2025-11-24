@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Sapiosophie/Ars & Teknê/Inventions/","tags":["Projets","Idées","Archiviste"],"noteIcon":"","updated":"2025-11-14T06:12:30.000+01:00"}
+{"dg-publish":true,"permalink":"/Sapiosophie/Ars & Teknê/Inventions/","hide":true,"tags":["Projets","Idées","Archiviste"],"noteIcon":"","updated":"2025-11-24T01:38:04.335+01:00"}
 ---
 
 

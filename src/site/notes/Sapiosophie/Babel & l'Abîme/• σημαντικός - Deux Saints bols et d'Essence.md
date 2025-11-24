@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Sapiosophie/Babel & l'Abîme/• σημαντικός - Deux Saints bols et d'Essence/","tags":["Sémantique","Abîme","Anamnèse","Archiviste","Vérités","EnCours","Penser"],"noteIcon":"","updated":"2025-11-14T06:12:30.000+01:00"}
+{"dg-publish":true,"permalink":"/Sapiosophie/Babel & l'Abîme/• σημαντικός - Deux Saints bols et d'Essence/","hide":true,"tags":["Sémantique","Abîme","Anamnèse","Archiviste","Vérités","EnCours","Penser"],"noteIcon":"","updated":"2025-11-24T01:38:13.627+01:00"}
 ---
 
 
