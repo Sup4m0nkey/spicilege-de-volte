@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Sapiosophie/Citations & Maximes/","noteIcon":"","updated":"2025-11-14T15:16:34.907+01:00"}
+{"dg-publish":true,"permalink":"/Sapiosophie/Citations & Maximes/","noteIcon":"","updated":"2025-11-23T22:20:11.017+01:00"}
 ---
 
 

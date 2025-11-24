@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Sapiosophie/Babel et l'Abîme/• σημαντικός - Deux Saints bols et d'Essence/","hide":true,"noteIcon":"","updated":"2025-11-14T15:16:34.892+01:00"}
+{"dg-publish":true,"permalink":"/Sapiosophie/Babel et l'Abîme/• σημαντικός - Deux Saints bols et d'Essence/","hide":true,"noteIcon":"","updated":"2025-11-23T22:20:08.621+01:00"}
 ---
 
 #Sémantique 
