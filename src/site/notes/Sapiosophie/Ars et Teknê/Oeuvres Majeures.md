@@ -4,14 +4,15 @@
 
 
 #Arts #Penser #Projets #EnCours 
-#### Pentalogie Psychonaute
 
+#### Décalogie Psychonautique
+##### Pentacle Goëthurgique
 1) Everything, Everywhere, All at Once
 2) Mr Nobody
 3) Cloud Atlas
 4) Enter The Void
 5) L'Éducation de Fredrick Fitzell
-##### Mention Honorables
+##### Échos de Chrysopée
 - La Planète Sauvage
 - 12 Monkeys
 - Donnie Darko
